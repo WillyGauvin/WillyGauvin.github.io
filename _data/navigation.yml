@@ -4,7 +4,7 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
     target: _blank
   - title: "Home Page"
-    url: /home/
+    url:
   - title: "Portfolio"
     url: /portfolio/
   # - title: "About"
