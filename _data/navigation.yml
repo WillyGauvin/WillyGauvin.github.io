@@ -2,6 +2,7 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    target: _blank
   - title: "Home Page"
     url: /home/
   # - title: "About"
@@ -12,4 +13,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  target: _blank
