@@ -77,9 +77,45 @@ Along with the backend development, I also worked on the front end with help fro
 
 ### Roller Derby
 
+Roller Derby was the first game I built inside of Unity.  
+This game ties together two conepts I had recently learned: Behaviour Tree's and Flocking
+
 ## Custom Engine
 
+Throughout my second year studying in Game Development I built a 3D game engine. Here are some of the concepts and features I had implemented during my time on this project:
+* ECS Architecture
+  * GameObjects to act as the Entities
+  * Components for Lights, Physics, Rendering, and Transforms
+  * Component Managers to house update systems for each component.
+* Event Systems
+* Scenes
+* Light rendering
+* Mesh File Loading
+* Customizable Camera
+  * Follow Cam
+  * 1st/3rd Person
+  * Orbit
+* Multiple integrated libraries
+  * bgfx
+  * Box2D Physics
+  * Jolt Physics
+  * ImGUI
+
+Here's a few games to show off the capabilties of the engine I created.
+
 ### Bat Maze
+{% include video id="994538390" provider="vimeo" %}
+This two player game showed off my newest addition of a follow camera. The follow camera was built to position itself at the average of each alive players position while keeping both players in frame with padding.
+
+You can see this feature in action in **the video below**. When Player 2 dies, the camera focuses on just the player that is alive.
+{% include video id="994538368" provider="vimeo" %}
+
+
+This stage of the engine was entirally 2D and pre physics components. All bodies were simply assigned a 2D texture read through a JSON file reader that was integrated into the engine.
+
+I also had recently integrated the IMGUI libary to help with debugging purposes as well as add some UI to the games I created.
+{% include video id="994538402" provider="vimeo" %}
+
 
 ### Golf
 
