@@ -118,15 +118,22 @@ I also had recently integrated the IMGUI libary to help with debugging purposes 
 
 
 ### Golf
+This short demo of a mini golf game was to exhibit my newest addition to the engine, lighting! I learned to calcuate specular and diffuse reflections, attenuation (falloff), and then how to mix it all together to calculate the light color and level for each pixel in the scene based on the camera's position.
 
 ### Lunar Lander
+My lunar lander game was created after I implented Box2D physics, an open source phsyics engine into my engine. the 3 main parts of the lander (2 engines, main body) each have their own rigidbody and collision box attached to simulate real physics and interactions with the terrain below. The terrain is randomly generated poly's with a handlefull of flat landing spots.
 
 ### Sokkoban
+An early stage in the development of this engine, Sokkoban was recreated to help test a new virtual controller class as well as a sprite animator class.
+{% include video id="994538478" provider="vimeo" %}
 
 ## GameDev2D
+GameDev2D is an engine developed by professors in my program. It was used to introduce students to creating and using custom game engines. Here are a couple games I created while learning this engine.
 
 ### Asteroids
-
+{% include video id="994538352" provider="vimeo" %}
 ### Brick Breaker
+{% include video id="994538420" provider="vimeo" %}
+
 
 [Unreal Network Compendium]: https://cedric-neukirchen.net/docs/category/multiplayer-network-compendium/
