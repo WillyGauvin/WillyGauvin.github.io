@@ -29,42 +29,42 @@ PixelSchoolGalleryB:
       title: "Boss Battle"
 
 MedusaA:
-    - url: Photos\Medusa\GAM1511_S3_P2_Gauvin_William_f.png
-      image_path: Photos\Medusa\GAM1511_S3_P2_Gauvin_William_f.png
+    - url: /Photos/Medusa/GAM1511_S3_P2_Gauvin_William_f.png
+      image_path: /Photos/Medusa/GAM1511_S3_P2_Gauvin_William_f.png
       alt: "World Map"
       title: "World Map"
-    - url: Photos\Medusa\GAME1511_S3_P2_Gauvin_William_1.png
-      image_path: Photos\Medusa\GAME1511_S3_P2_Gauvin_William_1.png
+    - url: /Photos/Medusa/GAME1511_S3_P2_Gauvin_William_1.png
+      image_path: /Photos/Medusa/GAME1511_S3_P2_Gauvin_William_1.png
       alt: "Outside with a sword"
       title: "Outside with a sword"
 
 MedusaB:
-    - url: Photos\Medusa\GAME1511_S3_P2_Gauvin_William_2.png
-      image_path: Photos\Medusa\GAME1511_S3_P2_Gauvin_William_2.png
+    - url: /Photos/Medusa/GAME1511_S3_P2_Gauvin_William_2.png
+      image_path: /Photos/Medusa\GAME1511_S3_P2_Gauvin_William_2.png
       alt: "Acquired a bow"
       title: "Acquired a bow"
-    - url: Photos\Medusa\GAME1511_S3_P2_Gauvin_William_3.png
-      image_path: Photos\Medusa\GAME1511_S3_P2_Gauvin_William_3.png
+    - url: /Photos/Medusa/GAME1511_S3_P2_Gauvin_William_3.png
+      image_path: /Photos/Medusa/GAME1511_S3_P2_Gauvin_William_3.png
       alt: "Medusa is near..."
       title: "Medusa is near..."
 
 PaperPiratesA:
-    - url: Photos\PaperPirates\GAM1511_S3_P3_Gauvin_William_1.png
-      image_path: Photos\PaperPirates\GAM1511_S3_P3_Gauvin_William_1.png
+    - url: /Photos/PaperPirates/GAM1511_S3_P3_Gauvin_William_1.png
+      image_path: /Photos/PaperPirates/GAM1511_S3_P3_Gauvin_William_1.png
       alt: "Trading at a port"
       title: "Trading at a port"
-    - url: Photos\PaperPirates\GAM1511_S3_P3_Gauvin_William_2.png
-      image_path: Photos\PaperPirates\GAM1511_S3_P3_Gauvin_William_2.png
+    - url: /Photos/PaperPirates/GAM1511_S3_P3_Gauvin_William_2.png
+      image_path: /Photos/PaperPirates/GAM1511_S3_P3_Gauvin_William_2.png
       alt: "Travelling the sea"
       title: "Travelling the sea"
 
 PaperPiratesB:
-    - url: Photos\PaperPirates\GAM1511_S3_P3_Gauvin_William_3.png
-      image_path: Photos\PaperPirates\GAM1511_S3_P3_Gauvin_William_3.png
+    - url: /Photos/PaperPirates/GAM1511_S3_P3_Gauvin_William_3.png
+      image_path: /Photos/PaperPirates/GAM1511_S3_P3_Gauvin_William_3.png
       alt: "Discovering a new island"
       title: "Discovering a new island"
-    - url: Photos\PaperPirates\GAM1511_S3_P3_Gauvin_William_f.png
-      image_path: Photos\PaperPirates\GAM1511_S3_P3_Gauvin_William_f.png
+    - url: /Photos/PaperPirates/GAM1511_S3_P3_Gauvin_William_f.png
+      image_path: /Photos/PaperPirates/GAM1511_S3_P3_Gauvin_William_f.png
       alt: "World Map"
       title: "World Map"
 ---
