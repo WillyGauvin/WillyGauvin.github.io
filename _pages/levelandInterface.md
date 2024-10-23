@@ -40,7 +40,7 @@ MedusaA:
 
 MedusaB:
     - url: /Photos/Medusa/GAME1511_S3_P2_Gauvin_William_2.png
-      image_path: /Photos/Medusa\GAME1511_S3_P2_Gauvin_William_2.png
+      image_path: /Photos/Medusa/GAME1511_S3_P2_Gauvin_William_2.png
       alt: "Acquired a bow"
       title: "Acquired a bow"
     - url: /Photos/Medusa/GAME1511_S3_P2_Gauvin_William_3.png
