@@ -79,6 +79,7 @@ Along with the backend development, I also worked on the front end with help fro
 
 Roller Derby was the first game I built inside of Unity.  
 This game ties together two conepts I had recently learned: Behaviour Tree's and Flocking
+{% include video id="1022562994" provider="vimeo" %}
 
 ## Custom Engine
 
@@ -119,9 +120,13 @@ I also had recently integrated the IMGUI libary to help with debugging purposes 
 
 ### Golf
 This short demo of a mini golf game was to exhibit my newest addition to the engine, lighting! I learned to calcuate specular and diffuse reflections, attenuation (falloff), and then how to mix it all together to calculate the light color and level for each pixel in the scene based on the camera's position.
+{% include video id="1022556421" provider="vimeo" %}
+
 
 ### Lunar Lander
 My lunar lander game was created after I implented Box2D physics, an open source phsyics engine into my engine. the 3 main parts of the lander (2 engines, main body) each have their own rigidbody and collision box attached to simulate real physics and interactions with the terrain below. The terrain is randomly generated poly's with a handlefull of flat landing spots.
+{% include video id="1022556950" provider="vimeo" %}
+
 
 ### Sokkoban
 An early stage in the development of this engine, Sokkoban was recreated to help test a new virtual controller class as well as a sprite animator class.
