@@ -1,5 +1,5 @@
 ---
-permalink: /games2/
+permalink: /Dirty-Dogs/
 layout: splash
 author_profile: false
 title: "Games"

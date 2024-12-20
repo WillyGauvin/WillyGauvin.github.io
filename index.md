@@ -18,45 +18,93 @@ myInterests:
   - image_path: Photos/Tower/Chest.png
     alt: "placeholder image 1"
     title: "Games"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Checkout the games I've made! I've used engines such as **Unity**, **Unreal**, and my own **custom game engine**."
     url: "/games/"
-    btn_label: "Read More"
+    btn_label: "Games"
     btn_class: "btn--primary"
 
   - image_path: Photos/Tower/Chest.png
     alt: "placeholder image 2"
     title: "Design"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    excerpt: "I really enjoy designing user interfaces, but I also have experience in level design. Check it out!"
+    url: "/levelandinterface/"
+    btn_label: "Design"
     btn_class: "btn--primary"
 
   - image_path: Photos/Tower/Chest.png
     title: "Storytelling"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    url: "/scriptsandcinematics/"
+    btn_label: "Storytelling"
     btn_class: "btn--primary"
 
-
-feature_row3:
+Games1:
   - image_path: Photos/Tower/Chest.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Postal Apocalypse"
+    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    url: "/scriptsandcinematics/"
+    btn_label: "Storytelling"
+    btn_class: "btn--success"
 
-
-feature_row4:
   - image_path: Photos/Tower/Chest.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Dirty Dogs"
+    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    url: "/scriptsandcinematics/"
+    btn_label: "Storytelling"
+    btn_class: "btn--success"
+
+  - image_path: Photos/Tower/Chest.png
+    title: "Librarian Simulator"
+    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    url: "/scriptsandcinematics/"
+    btn_label: "Storytelling"
+    btn_class: "btn--success"
+
+
+Games2:
+  - image_path: Photos/Tower/Chest.png
+    title: "Super Mario Remake"
+    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    url: "/scriptsandcinematics/"
+    btn_label: "Storytelling"
+    btn_class: "btn--danger"
+
+  - image_path: Photos/Tower/Chest.png
+    title: "Bat Maze"
+    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    url: "/scriptsandcinematics/"
+    btn_label: "Storytelling"
+    btn_class: "btn--danger"
+
+  - image_path: Photos/Tower/Chest.png
+    title: "Lunar Lander"
+    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    url: "/scriptsandcinematics/"
+    btn_label: "Storytelling"
+    btn_class: "btn--danger"
+
+
+Games3:
+  - image_path: Photos/Tower/Chest.png
+    title: "3D Golf"
+    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    url: "/scriptsandcinematics/"
+    btn_label: "Storytelling"
+    btn_class: "btn--warning"
+
+  - image_path: Photos/Tower/Chest.png
+    title: "Asteroids"
+    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    url: "/scriptsandcinematics/"
+    btn_label: "Storytelling"
+    btn_class: "btn--warning"
+
+  - image_path: Photos/Tower/Chest.png
+    title: "Pong Remake"
+    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    url: "/scriptsandcinematics/"
+    btn_label: "Storytelling"
+    btn_class: "btn--warning"
 
 ---
 
@@ -78,6 +126,17 @@ I am currently completing my final semester in Game Development at Algonquin Col
   
 
 {% include feature_row id="myInterests"%}
+
+{% include feature_row id="Games1"%}
+
+{% include feature_row id="Games2"%}
+
+{% include feature_row id="Games3"%}
+
+
+
+
+
 
 <!--- 
 {% include feature_row id="feature_row3" type="right" %}

@@ -1,10 +1,10 @@
 ---
-permalink: /scriptsandcinematics/
+permalink: /storytelling/
 layout: single
 author_profile: false
-title: "Scripts & Cinematics"
+title: "Storytelling"
 toc: true
-toc_label: "Scripts & Cinematics"
+toc_label: "Storytelling"
 toc_sticky: true
 
 ---

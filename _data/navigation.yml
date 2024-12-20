@@ -1,23 +1,32 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-    target: _blank
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #  target: _blank
   - title: "Home"
     url: /
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "About"
-    url: /about/
+  - title: "Postal Apocalypse"
+    url: /Postal-Apocalypse/
+  - title: "Dirty Dogs"
+    url: /Dirty-Dogs/
+  - title: "Librarian Simulator"
+    url: /Librarian-Simulator/
+  - title: "Bat Maze"
+    url: /Bat-Maze/
+  - title: "Super Mario Remake"
+    url: /Super-Mario-Remake"
+  - title: "Lunar Lander"
+    url: /Lunar-Lander/
+  - title: "Asteroids"
+    url: /Asteroids/
+  - title: "3D Golf"
+    url: /3D-Golf/
+  - title: "Pong"
+    url: /Pong/
+  - title: "Design"
+    url: /design/
+  - title: "Storytelling"
+    url: /storytelling/
   - title: "Resume"
     url: /resume/
-  - title: "Contact"
-    url: /contact/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+

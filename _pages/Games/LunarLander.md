@@ -1,5 +1,5 @@
 ---
-permalink: /games2/
+permalink: /Lunar-Lander/
 layout: splash
 author_profile: false
 title: "Games"

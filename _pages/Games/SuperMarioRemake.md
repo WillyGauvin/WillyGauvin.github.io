@@ -1,5 +1,5 @@
 ---
-permalink: /games2/
+permalink: /Super-Mario-Remake/
 layout: splash
 author_profile: false
 title: "Games"
