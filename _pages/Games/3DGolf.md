@@ -1,5 +1,5 @@
 ---
-permalink: /games2/
+permalink: /3D-Golf/
 layout: splash
 author_profile: false
 title: "Games"

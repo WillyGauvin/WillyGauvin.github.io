@@ -1,5 +1,5 @@
 ---
-permalink: /games2/
+permalink: /Librarian-Simulator/
 layout: splash
 author_profile: false
 title: "Games"

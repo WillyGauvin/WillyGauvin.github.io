@@ -1,5 +1,5 @@
 ---
-permalink: /games2/
+permalink: /Postal-Apocalypse/
 layout: splash
 author_profile: false
 title: "Games"

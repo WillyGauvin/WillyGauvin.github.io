@@ -1,10 +1,10 @@
 ---
-permalink: /levelandinterface/
+permalink: /design/
 layout: single
 author_profile: false
-title: "Level And Interface Design"
+title: "Design"
 toc: true
-toc_label: "Level & Interface Design"
+toc_label: "Design"
 toc_sticky: true
 
 
