@@ -1,5 +1,5 @@
 ---
-permalink: /design/
+permalink: /Design/
 layout: single
 author_profile: false
 title: "Design"

@@ -15,26 +15,18 @@ intro:
     excerpt: "I am a game programmer, designer, writer and cinematic artist with over 3 years of specialized education in this field."
 
 myInterests:
-  - image_path: Photos/Tower/Chest.png
-    alt: "placeholder image 1"
-    title: "Games"
-    excerpt: "Checkout the games I've made! I've used engines such as **Unity**, **Unreal**, and my own **custom game engine**."
-    url: "/games/"
-    btn_label: "Games"
-    btn_class: "btn--primary"
-
-  - image_path: Photos/Tower/Chest.png
+  - image_path: Photos/GameScreenShots/Design.png
     alt: "placeholder image 2"
     title: "Design"
     excerpt: "I really enjoy designing user interfaces, but I also have experience in level design. Check it out!"
-    url: "/levelandinterface/"
+    url: "/Design/"
     btn_label: "Design"
     btn_class: "btn--primary"
 
-  - image_path: Photos/Tower/Chest.png
+  - image_path: Photos/GameScreenShots/StoryTelling.png
     title: "Storytelling"
-    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
-    url: "/scriptsandcinematics/"
+    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to convey a story to the player."
+    url: "/Storytelling/"
     btn_label: "Storytelling"
     btn_class: "btn--primary"
 
@@ -62,21 +54,21 @@ Games1:
 
 
 Games2:
-  - image_path: Photos/Tower/Chest.png
+  - image_path: Photos/GameScreenShots/SuperMario.png
     title: "Super Mario Remake"
     excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
     url: "/scriptsandcinematics/"
     btn_label: "Storytelling"
     btn_class: "btn--danger"
 
-  - image_path: Photos/Tower/Chest.png
+  - image_path: Photos/GameScreenShots/BatMaze.png
     title: "Bat Maze"
     excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
     url: "/scriptsandcinematics/"
     btn_label: "Storytelling"
     btn_class: "btn--danger"
 
-  - image_path: Photos/Tower/Chest.png
+  - image_path: Photos/GameScreenShots/LunarLander.png
     title: "Lunar Lander"
     excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
     url: "/scriptsandcinematics/"
@@ -85,23 +77,23 @@ Games2:
 
 
 Games3:
-  - image_path: Photos/Tower/Chest.png
+  - image_path: Photos/GameScreenShots/3DGolf.png
     title: "3D Golf"
     excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
     url: "/scriptsandcinematics/"
     btn_label: "Storytelling"
     btn_class: "btn--warning"
 
-  - image_path: Photos/Tower/Chest.png
+  - image_path: Photos/GameScreenShots/Asteroids.png
     title: "Asteroids"
     excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
     url: "/scriptsandcinematics/"
     btn_label: "Storytelling"
     btn_class: "btn--warning"
 
-  - image_path: Photos/Tower/Chest.png
-    title: "Pong Remake"
-    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+  - image_path: Photos/GameScreenShots/Sokoban.png
+    title: "Sokoban"
+    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to convey a story to the player."
     url: "/scriptsandcinematics/"
     btn_label: "Storytelling"
     btn_class: "btn--warning"
@@ -122,10 +114,8 @@ I am currently completing my final semester in Game Development at Algonquin Col
 <br>
 ---
 
-# Projects
-  
 
-{% include feature_row id="myInterests"%}
+# Projects
 
 {% include feature_row id="Games1"%}
 
@@ -133,7 +123,9 @@ I am currently completing my final semester in Game Development at Algonquin Col
 
 {% include feature_row id="Games3"%}
 
+# Other Skills
 
+{% include feature_row id="myInterests"%}
 
 
 
