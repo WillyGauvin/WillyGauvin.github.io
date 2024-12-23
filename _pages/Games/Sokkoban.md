@@ -1,5 +1,5 @@
 ---
-permalink: /Pong/
+permalink: /Sokoban/
 layout: splash
 author_profile: false
 title: "Games"

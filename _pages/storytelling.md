@@ -1,5 +1,5 @@
 ---
-permalink: /storytelling/
+permalink: /Storytelling/
 layout: single
 author_profile: false
 title: "Storytelling"
