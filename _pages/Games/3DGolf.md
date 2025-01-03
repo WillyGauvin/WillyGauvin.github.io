@@ -2,7 +2,7 @@
 permalink: /3D-Golf/
 layout: splash
 author_profile: false
-title: "Games"
+title: "3D Golf"
 # toc: true
 # toc_label: "My Games"
 # toc_sticky: true

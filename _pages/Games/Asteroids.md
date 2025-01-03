@@ -2,7 +2,7 @@
 permalink: /Asteroids/
 layout: splash
 author_profile: false
-title: "Games"
+title: "Asteroids"
 # toc: true
 # toc_label: "My Games"
 # toc_sticky: true

@@ -2,7 +2,7 @@
 permalink: /Super-Mario-Remake/
 layout: splash
 author_profile: false
-title: "Mario"
+title: "Super Mario Remake"
 # toc: true
 # toc_label: "My Games"
 # toc_sticky: true

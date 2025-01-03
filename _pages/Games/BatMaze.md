@@ -2,7 +2,7 @@
 permalink: /Bat-Maze/
 layout: splash
 author_profile: false
-title: "Games"
+title: "Bat Maze"
 # toc: true
 # toc_label: "My Games"
 # toc_sticky: true

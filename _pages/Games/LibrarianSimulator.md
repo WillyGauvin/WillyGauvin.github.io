@@ -2,7 +2,7 @@
 permalink: /Librarian-Simulator/
 layout: splash
 author_profile: false
-title: "Games"
+title: "Librarian Simulator"
 # toc: true
 # toc_label: "My Games"
 # toc_sticky: true

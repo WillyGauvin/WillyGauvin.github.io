@@ -4,7 +4,7 @@ layout: splash
 author_profile: false
 
 header:
-  overlay_image: Photos/HomePage/Will.jpg
+  overlay_image: Photos/HomePage/SplashPage.png
   # actions:
     # - label: "Download"
     #   url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -31,25 +31,25 @@ myInterests:
     btn_class: "btn--primary"
 
 Games1:
-  - image_path: Photos/Tower/Chest.png
+  - image_path: Photos/GameScreenShots/PostalApocalypse.png
     title: "Postal Apocalypse"
     excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
-    url: "/scriptsandcinematics/"
-    btn_label: "Storytelling"
+    url: "/Postal-Apocalypse/"
+    btn_label: "Postal Apocalypse"
     btn_class: "btn--success"
 
-  - image_path: Photos/Tower/Chest.png
+  - image_path: Photos/GameScreenShots/DirtyDogs.png
     title: "Dirty Dogs"
     excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
-    url: "/scriptsandcinematics/"
-    btn_label: "Storytelling"
+    url: "/Dirty-Dogs/"
+    btn_label: "Dirty Dogs"
     btn_class: "btn--success"
 
-  - image_path: Photos/Tower/Chest.png
+  - image_path: Photos/GameScreenShots/LibrarianGame.jpg
     title: "Librarian Simulator"
     excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
-    url: "/scriptsandcinematics/"
-    btn_label: "Storytelling"
+    url: "/Librarian-Simulator/"
+    btn_label: "Librarian Simulator"
     btn_class: "btn--success"
 
 
@@ -57,22 +57,22 @@ Games2:
   - image_path: Photos/GameScreenShots/SuperMario.png
     title: "Super Mario Remake"
     excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
-    url: "/scriptsandcinematics/"
-    btn_label: "Storytelling"
+    url: "/Super-Mario-Remake/"
+    btn_label: "Super Mario Remake"
     btn_class: "btn--danger"
 
   - image_path: Photos/GameScreenShots/BatMaze.png
     title: "Bat Maze"
     excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
-    url: "/scriptsandcinematics/"
-    btn_label: "Storytelling"
+    url: "/Bat-Maze/"
+    btn_label: "Bat Maze"
     btn_class: "btn--danger"
 
   - image_path: Photos/GameScreenShots/LunarLander.png
     title: "Lunar Lander"
     excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
-    url: "/scriptsandcinematics/"
-    btn_label: "Storytelling"
+    url: "/Lunar-Lander/"
+    btn_label: "Lunar Lander"
     btn_class: "btn--danger"
 
 
@@ -80,22 +80,22 @@ Games3:
   - image_path: Photos/GameScreenShots/3DGolf.png
     title: "3D Golf"
     excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
-    url: "/scriptsandcinematics/"
-    btn_label: "Storytelling"
+    url: "/3D-Golf/"
+    btn_label: "3D Golf"
     btn_class: "btn--warning"
 
   - image_path: Photos/GameScreenShots/Asteroids.png
     title: "Asteroids"
     excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
-    url: "/scriptsandcinematics/"
-    btn_label: "Storytelling"
+    url: "/Asteroids/"
+    btn_label: "Asteroids"
     btn_class: "btn--warning"
 
   - image_path: Photos/GameScreenShots/Sokoban.png
     title: "Sokoban"
     excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to convey a story to the player."
-    url: "/scriptsandcinematics/"
-    btn_label: "Storytelling"
+    url: "/Sokoban/"
+    btn_label: "Sokoban"
     btn_class: "btn--warning"
 
 ---
