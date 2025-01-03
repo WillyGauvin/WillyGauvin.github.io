@@ -2,7 +2,7 @@
 permalink: /Dirty-Dogs/
 layout: splash
 author_profile: false
-title: "Games"
+title: "Dirty Dogs"
 # toc: true
 # toc_label: "My Games"
 # toc_sticky: true

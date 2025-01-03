@@ -2,7 +2,7 @@
 permalink: /Lunar-Lander/
 layout: splash
 author_profile: false
-title: "Games"
+title: "Lunar Lander"
 # toc: true
 # toc_label: "My Games"
 # toc_sticky: true

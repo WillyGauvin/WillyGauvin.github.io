@@ -2,7 +2,7 @@
 permalink: /Sokoban/
 layout: splash
 author_profile: false
-title: "Games"
+title: "Sokoban"
 # toc: true
 # toc_label: "My Games"
 # toc_sticky: true
