@@ -1,6 +1,6 @@
 ---
 permalink: /Dirty-Dogs/
-layout: splash
+layout: single
 author_profile: false
 title: "Dirty Dogs"
 # toc: true
@@ -8,24 +8,37 @@ title: "Dirty Dogs"
 # toc_sticky: true
 
 
-UnrealEngine:
-  - image_path: Photos/Tower/Chest.png
+Contributions:
+  - url: Photos/GameScreenShots/Homer.gif
+    image_path: Photos/GameScreenShots/Homer.gif
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"` aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa  lets go'
-    url: ""
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: Photos/Tower/Chest.png
-    alt: "placeholder image 3"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: ""
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - url: Photos/GameScreenShots/Homer.gif
+    image_path: Photos/GameScreenShots/Homer.gif
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+  - url: Photos/GameScreenShots/Homer.gif
+    image_path: Photos/GameScreenShots/Homer.gif
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+---
+{% include video id="994538487" provider="vimeo" %}
+
+- **Released**: April 2024
+- **Studio**: Team 5.5
+- **Platforms**: PC, Linux. Controller Support
+- **Skill Focus**: Multiplayer Networking, Player Controls.
+- **Engine and Tools**: Unreal Engine 5
+- **Time Spent on Project**: 4 Months
 
 ---
 
-{% include feature_row id="UnrealEngine"%}
-{% include video id="994538487" provider="vimeo" %}
+# Summary of Contributions:
+
+I learned how to create a standard Server-Client architecture through proper replication, all hosted on a dedicated server through Steam.
+
+I created all controls for the player.
+
+{% include gallery id = "Contributions" caption= "This is a sample gallery with **Markdown support**." %}
+
 
