@@ -1,6 +1,6 @@
 ---
 permalink: /Postal-Apocalypse/
-layout: splash
+layout: single
 author_profile: false
 title: "Postal Apocalypse"
 # toc: true
@@ -8,20 +8,47 @@ title: "Postal Apocalypse"
 # toc_sticky: true
 
 
-UnrealEngine:
-  - image_path: Photos/GameScreenShots/PostalApocalypse.png
+Contributions:
+  - url: Photos/GameScreenShots/Homer.gif
+    image_path: Photos/GameScreenShots/Homer.gif
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"` lets go'
-    url: ""
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - url: Photos/GameScreenShots/Homer.gif
+    image_path: Photos/GameScreenShots/Homer.gif
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+  - url: Photos/GameScreenShots/Homer.gif
+    image_path: Photos/GameScreenShots/Homer.gif
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+---
+{% include video id="994538487" provider="vimeo" %}
+
+- **Released**: April 2025  
+- **Studio**: Going Postal Productions  
+- **Platforms**: PC, Linix. Controller support  
+- **Skill Focus**: Player Controls, Camera Behaviour, Unit Testing, UI.  
+- **Engine and Tools**: Unity  
+- **Time Spent on Project**: 8 months   
+
 ---
 
-{% include feature_row id="UnrealEngine"%} 
+# Summary of Contributions:
+
+I created all gameplay controls and mechanics related to the delivery truck.
+
+I brought the presentation of delivery reviews to life.
+
+I made the reactive camera system.
+
+I achieved 50% unit testing coverage for all mechanics I worked on.
 
 
-{% include video id="994538487" provider="vimeo" %}
+
+
+{% include gallery id = "Contributions" caption= "This is a sample gallery with **Markdown support**." %}
+
+
 
 
 

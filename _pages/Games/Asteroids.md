@@ -1,6 +1,6 @@
 ---
 permalink: /Asteroids/
-layout: splash
+layout: single
 author_profile: false
 title: "Asteroids"
 # toc: true
@@ -8,24 +8,38 @@ title: "Asteroids"
 # toc_sticky: true
 
 
-UnrealEngine:
-  - image_path: Photos/Tower/Chest.png
+Contributions:
+  - url: Photos/GameScreenShots/Homer.gif
+    image_path: Photos/GameScreenShots/Homer.gif
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"` aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa aaaaaa aaaaaaaaaa  lets go'
-    url: ""
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: Photos/Tower/Chest.png
-    alt: "placeholder image 3"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: ""
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - url: Photos/GameScreenShots/Homer.gif
+    image_path: Photos/GameScreenShots/Homer.gif
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+  - url: Photos/GameScreenShots/Homer.gif
+    image_path: Photos/GameScreenShots/Homer.gif
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+---
+{% include video id="994538487" provider="vimeo" %}
+
+- **Platforms**: PC
+- **Skill Focus**: Solo-Developer 
+- **Engine and Tools**: GameDev2D (Educational Game Engine)
+- **Time Spent on Project**: 2 weeks
 
 ---
 
-{% include feature_row id="UnrealEngine"%}
-{% include video id="994538487" provider="vimeo" %}
+# Summary of Contributions:
+
+I created all mechanics, UI, and controls in the game.  
+
+Collision detection and reaction for all asteroids and bullets.  
+
+Object pooling for bullets and asteroids.  
+
+
+{% include gallery id = "Contributions" caption= "This is a sample gallery with **Markdown support**." %}
+
 
