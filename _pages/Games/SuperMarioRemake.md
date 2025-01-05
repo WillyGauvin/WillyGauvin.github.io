@@ -1,6 +1,6 @@
 ---
 permalink: /Super-Mario-Remake/
-layout: single
+layout: splash
 author_profile: false
 title: "Super Mario Remake"
 # toc: true
@@ -9,21 +9,18 @@ title: "Super Mario Remake"
 
 
 Contributions:
-  - url: Photos/GameScreenShots/Homer.gif
-    image_path: Photos/GameScreenShots/Homer.gif
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-  - url: Photos/GameScreenShots/Homer.gif
-    image_path: Photos/GameScreenShots/Homer.gif
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-  - url: Photos/GameScreenShots/Homer.gif
-    image_path: Photos/GameScreenShots/Homer.gif
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
+  - url: Gifs/MarioGoomba.gif
+    image_path: Gifs/MarioGoomba.gif
+    alt: "Goomba"
+    title: "Goomba"
+  - url: Gifs/MarioBlocks.gif
+    image_path: Gifs/MarioBlocks.gif
+    alt: "On/Off Blocks"
+    title: "On/Off Blocks"
 ---
 {% include video id="994538487" provider="vimeo" %}
 
+- **Project End**: December 2023 
 - **Platforms**: PC
 - **Skill Focus**: Game Mechanics
 - **Engine and Tools**: Unreal Engine 5
@@ -38,5 +35,5 @@ I reimagined the classic Super Mario enemy, Goomba's. These Goombas have the abi
 I recreated the togglable blocks to add exciting puzzles to the level.
 
 
-{% include gallery id = "Contributions" caption= "This is a sample gallery with **Markdown support**." %}
+{% include gallery id = "Contributions" %}
 

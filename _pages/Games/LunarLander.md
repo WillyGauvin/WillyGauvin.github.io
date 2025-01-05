@@ -1,6 +1,6 @@
 ---
 permalink: /Lunar-Lander/
-layout: single
+layout: splash
 author_profile: false
 title: "Lunar Lander"
 # toc: true
@@ -9,21 +9,22 @@ title: "Lunar Lander"
 
 
 Contributions:
-  - url: Photos/GameScreenShots/Homer.gif
-    image_path: Photos/GameScreenShots/Homer.gif
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-  - url: Photos/GameScreenShots/Homer.gif
-    image_path: Photos/GameScreenShots/Homer.gif
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-  - url: Photos/GameScreenShots/Homer.gif
-    image_path: Photos/GameScreenShots/Homer.gif
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
+  - url: Gifs/LunarPhysics.gif
+    image_path: Gifs/LunarPhysics.gif
+    alt: "Physics"
+    title: "Physics"
+  - url: Gifs/LunarCamera.gif
+    image_path: Gifs/LunarCamera.gif
+    alt: "Smooth Camera"
+    title: "Smooth Camera"
+  - url: Gifs/LunarTerrain.gif
+    image_path: Gifs/LunarTerrain.gif
+    alt: "Terrain Generator"
+    title: "Terrain Generator"
 ---
-{% include video id="994538487" provider="vimeo" %}
+{% include video id="1022556950" provider="vimeo" %}
   
+- **Project End**: March 2024 
 - **Platforms**: PC
 - **Skill Focus**: Engine Programming 
 - **Engine and Tools**: Custom Game Engine
@@ -40,5 +41,5 @@ I created a smooth camera to follow the player and slowly zoom in as we approach
 I built a custom terrain generator to fill the ground with debris and unlandable area's.
 
 
-{% include gallery id = "Contributions" caption= "This is a sample gallery with **Markdown support**." %}
+{% include gallery id = "Contributions" %}
 

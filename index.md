@@ -33,21 +33,39 @@ myInterests:
 Games1:
   - image_path: Photos/GameScreenShots/PostalApocalypse.png
     title: "Postal Apocalypse"
-    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    excerpt: "-**Release**: April 2025 <br>  
+-**Studio**: Going Postal Productions  <br> 
+-**Platforms**: PC, Linix. Controller support <br>  
+-**Skill Focus**: Player Controls, Camera Behaviour, Unit Testing, UI.  <br> 
+-**Engine**: Unity  <br> 
+-**Time Spent on Project**: 8 months"
+
     url: "/Postal-Apocalypse/"
     btn_label: "Postal Apocalypse"
     btn_class: "btn--success"
 
   - image_path: Photos/GameScreenShots/DirtyDogs.png
     title: "Dirty Dogs"
-    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    excerpt: "-**Released**: April 2024 <br>
+-**Studio**: Team 5.5 <br>
+-**Platforms**: PC, Linux. Controller Support <br>
+-**Skill Focus**: Multiplayer Networking, Player Controls. <br>
+-**Engine**: Unreal Engine 5 <br>
+-**Time Spent on Project**: 4 Months "
+
     url: "/Dirty-Dogs/"
     btn_label: "Dirty Dogs"
     btn_class: "btn--success"
 
   - image_path: Photos/GameScreenShots/LibrarianGame.jpg
     title: "Librarian Simulator"
-    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    excerpt: "-**Project End**: June 2024 <br>
+-**Studio**: Solo Developer  <br> 
+-**Platforms**: PC <br>
+-**Skill Focus**: Backend development <br>
+-**Engine and Tools**: Unity, 3DSMax <br>
+-**Time Spent on Project**: 1 Month"
+
     url: "/Librarian-Simulator/"
     btn_label: "Librarian Simulator"
     btn_class: "btn--success"
@@ -56,21 +74,36 @@ Games1:
 Games2:
   - image_path: Photos/GameScreenShots/SuperMario.png
     title: "Super Mario Remake"
-    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    excerpt: "-**Project End**: December 2023 <br> 
+-**Platforms**: PC <br>
+-**Skill Focus**: Game Mechanics <br>
+-**Engine**: Unreal Engine 5 <br>
+-**Time Spent on Project**: 2 Weeks"
+
     url: "/Super-Mario-Remake/"
     btn_label: "Super Mario Remake"
     btn_class: "btn--danger"
 
   - image_path: Photos/GameScreenShots/BatMaze.png
     title: "Bat Maze"
-    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    excerpt: "-**Project End**: December 2023 <br>
+-**Platforms**: PC <br>
+-**Skill Focus**: Engine Programming <br> 
+-**Engine**: Custom Game Engine <br>
+-**Time Spent on Project**: 12 Weeks."
+
     url: "/Bat-Maze/"
     btn_label: "Bat Maze"
     btn_class: "btn--danger"
 
   - image_path: Photos/GameScreenShots/LunarLander.png
     title: "Lunar Lander"
-    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    excerpt: "-**Project End**: March 2024 <br> 
+-**Platforms**: PC <br>
+-**Skill Focus**: Engine Programming <br> 
+-**Engine**: Custom Game Engine <br>
+-**Time Spent on Project**: 2 Weeks"
+
     url: "/Lunar-Lander/"
     btn_label: "Lunar Lander"
     btn_class: "btn--danger"
@@ -79,21 +112,36 @@ Games2:
 Games3:
   - image_path: Photos/GameScreenShots/3DGolf.png
     title: "3D Golf"
-    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    excerpt: "-**Project End**: April 2024 <br> 
+-**Platforms**: PC <br>
+-**Skill Focus**: Engine Programming. <br>
+-**Engine**: Custom Engine <br>
+-**Time Spent on Project**: 8 Weeks"
+
     url: "/3D-Golf/"
     btn_label: "3D Golf"
     btn_class: "btn--warning"
 
   - image_path: Photos/GameScreenShots/Asteroids.png
     title: "Asteroids"
-    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to help convey a story to the player."
+    excerpt: "-**Project End**: November 2023 <br>
+-**Platforms**: PC <br>
+-**Skill Focus**: Solo-Developer <br> 
+-**Engine**: GameDev2D (Educational Game Engine) <br>
+-**Time Spent on Project**: 2 weeks"
+
     url: "/Asteroids/"
     btn_label: "Asteroids"
     btn_class: "btn--warning"
 
   - image_path: Photos/GameScreenShots/Sokoban.png
     title: "Sokoban"
-    excerpt: "I love writing, I also love video editing. Here's some projects I've worked on to convey a story to the player."
+    excerpt: "-**Project End**: November 2023 <br>
+-**Platforms**: PC <br>
+-**Skill Focus**: Engine Programming <br>
+-**Engine**: Custom Game Engine <br>
+-**Time Spent on Project**: 3 Weeks"
+
     url: "/Sokoban/"
     btn_label: "Sokoban"
     btn_class: "btn--warning"
@@ -105,7 +153,7 @@ Games3:
 # About
 
 ![image-left](Photos/HomePage/Will246.jpg){: .align-left}
-I am a game programmer, designer, writer and cinematic artist with over 3 years of specialized education in this field.  
+I am a game programmer, designer, writer and cinematic artist with over 3 years of specialized education in game development.  
 
 Developing immersive video game mechanics is my passion.
 

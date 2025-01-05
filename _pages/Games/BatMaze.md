@@ -1,6 +1,6 @@
 ---
 permalink: /Bat-Maze/
-layout: single
+layout: splash
 author_profile: false
 title: "Bat Maze"
 # toc: true
@@ -9,21 +9,22 @@ title: "Bat Maze"
 
 
 Contributions:
-  - url: Photos/GameScreenShots/Homer.gif
-    image_path: Photos/GameScreenShots/Homer.gif
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-  - url: Photos/GameScreenShots/Homer.gif
-    image_path: Photos/GameScreenShots/Homer.gif
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-  - url: Photos/GameScreenShots/Homer.gif
-    image_path: Photos/GameScreenShots/Homer.gif
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
+  - url: Gifs/BatMazeFocusCamera.gif
+    image_path: Gifs/BatMazeFocusCamera.gif
+    alt: "FocusCamera"
+    title: "Custom Game Engine FollowCamera"
+  - url: Gifs/BatMazeIMGUI.gif
+    image_path: Gifs/BatMazeIMGUI.gif
+    alt: "IMGUI Debugger"
+    title: "Debugger using IMGUI Library"
+  - url: Gifs/BatMazeAStar.gif
+    image_path: Gifs/BatMazeAStar.gif
+    alt: "Pathfinding"
+    title: "A* Pathfinding"
 ---
-{% include video id="994538487" provider="vimeo" %}
-  
+{% include video id="994538390" provider="vimeo" %}
+
+- **Project End**: December 2023
 - **Platforms**: PC
 - **Skill Focus**: Engine Programming 
 - **Engine and Tools**: Custom Game Engine
@@ -40,5 +41,5 @@ I implemented a runtime debugger using IMGui.
 I programmed A* path finding for the Bat's to track players.  
 
 
-{% include gallery id = "Contributions" caption= "This is a sample gallery with **Markdown support**." %}
+{% include gallery id = "Contributions" %}
 
