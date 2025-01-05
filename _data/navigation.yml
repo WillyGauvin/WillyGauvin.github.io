@@ -19,14 +19,14 @@ main:
     url: /storytelling/
   - title: "Resume"
     url: /resume/
+  - title: "3D Golf"
+    url: /3D-Golf/
   - title: "Lunar Lander"
     url: /Lunar-Lander/
   - title: "Super Mario Remake"
     url: /Super-Mario-Remake/
   - title: "Asteroids"
     url: /Asteroids/
-  - title: "3D Golf"
-    url: /3D-Golf/
   - title: "Sokoban"
     url: /Sokoban/
 

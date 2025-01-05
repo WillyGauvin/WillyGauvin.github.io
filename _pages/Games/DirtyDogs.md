@@ -1,6 +1,6 @@
 ---
 permalink: /Dirty-Dogs/
-layout: single
+layout: splash
 author_profile: false
 title: "Dirty Dogs"
 # toc: true

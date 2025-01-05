@@ -1,11 +1,11 @@
 ---
 permalink: /Design/
-layout: single
+layout: splash
 author_profile: false
 title: "Design"
-toc: true
-toc_label: "Design"
-toc_sticky: true
+# toc: true
+# toc_label: "Design"
+# toc_sticky: true
 
 
 PixelSchoolGalleryA:

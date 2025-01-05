@@ -1,6 +1,6 @@
 ---
 permalink: /Asteroids/
-layout: single
+layout: splash
 author_profile: false
 title: "Asteroids"
 # toc: true
@@ -22,8 +22,9 @@ Contributions:
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
 ---
-{% include video id="994538487" provider="vimeo" %}
+{% include video id="994538352" provider="vimeo" %}
 
+- **Project End**: November 2023
 - **Platforms**: PC
 - **Skill Focus**: Solo-Developer 
 - **Engine and Tools**: GameDev2D (Educational Game Engine)

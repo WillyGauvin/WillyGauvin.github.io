@@ -1,6 +1,6 @@
 ---
 permalink: /Postal-Apocalypse/
-layout: single
+layout: splash
 author_profile: false
 title: "Postal Apocalypse"
 # toc: true
@@ -24,7 +24,7 @@ Contributions:
 ---
 {% include video id="994538487" provider="vimeo" %}
 
-- **Released**: April 2025  
+- **Release**: April 2025  
 - **Studio**: Going Postal Productions  
 - **Platforms**: PC, Linix. Controller support  
 - **Skill Focus**: Player Controls, Camera Behaviour, Unit Testing, UI.  
