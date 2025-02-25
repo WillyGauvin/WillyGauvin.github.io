@@ -44,7 +44,7 @@ Games1:
     btn_label: "Postal Apocalypse"
     btn_class: "btn--success"
 
-  - image_path: Photos/GameScreenShots/DirtyDogs.png
+  - image_path: Photos/GameScreenShots/Logo.png
     title: "Dirty Dogs"
     excerpt: "-**Released**: April 2024 <br>
 -**Studio**: Team 5.5 <br>
