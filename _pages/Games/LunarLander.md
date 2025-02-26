@@ -34,7 +34,7 @@ Contributions:
 
 # Additions to Custom Game Engine:
 
-I implemented Box2D physics, an open source physics engine.  
+I implemented the Box2D physics library (an open source physics engine).  
 
 I created a smooth camera to follow the player and slowly zoom in as we approach landing.  
 
