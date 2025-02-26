@@ -6,21 +6,6 @@ title: "Asteroids"
 # toc: true
 # toc_label: "My Games"
 # toc_sticky: true
-
-
-Contributions:
-  - url: Photos/GameScreenShots/Homer.gif
-    image_path: Photos/GameScreenShots/Homer.gif
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-  - url: Photos/GameScreenShots/Homer.gif
-    image_path: Photos/GameScreenShots/Homer.gif
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-  - url: Photos/GameScreenShots/Homer.gif
-    image_path: Photos/GameScreenShots/Homer.gif
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
 ---
 {% include video id="994538352" provider="vimeo" %}
 
@@ -36,11 +21,8 @@ Contributions:
 
 I created all mechanics, UI, and controls in the game.  
 
-Collision detection and reaction for all asteroids and bullets.  
+I developed collision detection and reaction for all asteroids and bullets.  
 
-Object pooling for bullets and asteroids.  
-
-
-{% include gallery id = "Contributions" caption= "This is a sample gallery with **Markdown support**." %}
+I used object pooling for bullets and asteroids.  
 
 
