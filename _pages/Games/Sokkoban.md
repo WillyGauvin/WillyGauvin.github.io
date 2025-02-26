@@ -36,7 +36,7 @@ Contributions:
 
 I created a Virtual Controller class that allows easy control setup for future projects.  
 
-I brought life to the engine by creating an sprite animator to allow for more interesting graphics.
+I brought life to the engine by creating a sprite animator to allow for more interesting graphics.
 
 
 {% include gallery id = "Contributions" caption= "This is a sample gallery with **Markdown support**." %}
