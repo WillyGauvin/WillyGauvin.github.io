@@ -23,6 +23,6 @@ I created all mechanics, UI, and controls in the game.
 
 I developed collision detection and reaction for all asteroids and bullets.  
 
-I used object pooling for bullets and asteroids.  
+I implemented object pooling (a game programming concept that allows the reuse of common unused objects instead of its expensive alternative of creating new ones) for bullets and asteroids.
 
 

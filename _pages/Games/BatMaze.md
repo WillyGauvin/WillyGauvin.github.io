@@ -9,18 +9,18 @@ title: "Bat Maze"
 
 
 Contributions:
-  - url: Gifs/BatMazeFocusCamera.gif
-    image_path: Gifs/BatMazeFocusCamera.gif
+  - image_path: Gifs/BatMazeFocusCamera.gif
     alt: "FocusCamera"
-    title: "Custom Game Engine FollowCamera"
-  - url: Gifs/BatMazeIMGUI.gif
-    image_path: Gifs/BatMazeIMGUI.gif
+    title: "Follow Camera"
+    excerpt: "I developed a Follow Camera system that tracks the player as they move around the level. I also added support to track multiple subjects at once, keeping all subjects constantly in view on screen."
+  - image_path: Gifs/BatMazeIMGUI.gif
     alt: "IMGUI Debugger"
     title: "Debugger using IMGUI Library"
-  - url: Gifs/BatMazeAStar.gif
-    image_path: Gifs/BatMazeAStar.gif
+    excerpt: "I integrated the IMGUI library to allow me to monitor values at runtime (when the game is playing). This helps the user tremendously with debugging while creating their game."
+  - image_path: Gifs/BatMazeAStar.gif
     alt: "Pathfinding"
     title: "A* Pathfinding"
+    excerpt: "I programmed A* path finding, an algorithm used to find the shortest route to a destination, and applied it to the bat's movement code to constantly and efficiently chase the player."
 ---
 {% include video id="994538390" provider="vimeo" %}
 
@@ -34,12 +34,5 @@ Contributions:
 
 # Additions to Custom Game Engine:
 
-I created a follow camera with the ability to follow multiple subjects and keep all in frame.  
-
-I implemented a runtime debugger using IMGui.  
-
-I programmed A* path finding for the Bat's to track players.  
-
-
-{% include gallery id = "Contributions" %}
+{% include feature_row id = "Contributions" %}
 

@@ -19,7 +19,7 @@ title: "Sokoban"
 
 # Additions to Custom Game Engine:
 
-I created a Virtual Controller class that allows easy control setup for future projects.  
+A virtual controller class to prodivde a quick user friendly alternative to setting up basic controls.
 
-I brought life to the engine by creating a sprite animator to allow for more interesting graphics.
+A sprite animator that allows for more interesting visuals.
 

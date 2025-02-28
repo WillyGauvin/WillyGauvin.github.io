@@ -9,18 +9,18 @@ title: "Lunar Lander"
 
 
 Contributions:
-  - url: Gifs/LunarPhysics.gif
-    image_path: Gifs/LunarPhysics.gif
+  - image_path: Gifs/LunarPhysics.gif
     alt: "Physics"
     title: "Physics"
-  - url: Gifs/LunarCamera.gif
-    image_path: Gifs/LunarCamera.gif
+    excerpt: "I implemented the Box2D physics library (an open source physics engine)."
+  - image_path: Gifs/LunarCamera.gif
     alt: "Smooth Camera"
     title: "Smooth Camera"
-  - url: Gifs/LunarTerrain.gif
-    image_path: Gifs/LunarTerrain.gif
+    excerpt: "I created a smooth camera to follow the player and slowly zoom in as we approach landing."
+  - image_path: Gifs/LunarTerrain.gif
     alt: "Terrain Generator"
     title: "Terrain Generator"
+    excerpt: "I built a custom terrain generator to fill the ground with debris and unlandable area's."
 ---
 {% include video id="1022556950" provider="vimeo" %}
   
@@ -34,12 +34,5 @@ Contributions:
 
 # Additions to Custom Game Engine:
 
-I implemented the Box2D physics library (an open source physics engine).  
-
-I created a smooth camera to follow the player and slowly zoom in as we approach landing.  
-
-I built a custom terrain generator to fill the ground with debris and unlandable area's.
-
-
-{% include gallery id = "Contributions" %}
+{% include feature_row id = "Contributions" %}
 
