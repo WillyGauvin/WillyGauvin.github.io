@@ -9,25 +9,25 @@ title: "Postal Apocalypse"
 
 
 Contributions:
-  - url: Photos/GameScreenShots/Homer.gif
-    image_path: Photos/GameScreenShots/Homer.gif
+  - image_path: Photos/GameScreenShots/Homer.gif
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-  - url: Photos/GameScreenShots/Homer.gif
-    image_path: Photos/GameScreenShots/Homer.gif
+    title: "Player"
+    excerpt: "I lead all development related to mechanics and controls of the playable character."
+  - image_path: Photos/GameScreenShots/Homer.gif
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-  - url: Photos/GameScreenShots/Homer.gif
-    image_path: Photos/GameScreenShots/Homer.gif
+    title: "Cameras"
+    excerpt: "I implemented all camera systems and configured them to allow for interesting cinematic shots, dynamic follow cameras, and first person shooting perspectives."
+  - image_path: Photos/GameScreenShots/Homer.gif
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
+    title: "Game Systems"
+    excerpt: "I designed and maintained the Delivery System, the main gameloop system present in Postal Apocalypse."
 ---
 {% include video id="994538487" provider="vimeo" %}
 
 - **Release**: April 2025  
-- **Studio**: Going Postal Productions  
+- **Studio**: Postal Productions  
 - **Platforms**: PC, Linix. Controller support  
-- **Skill Focus**: Player Controls, Camera Behaviour, Unit Testing, UI.  
+- **Skill Focus**: Player Controls, Cameras, Game Systems.  
 - **Engine and Tools**: Unity  
 - **Time Spent on Project**: 8 months   
 
@@ -35,18 +35,7 @@ Contributions:
 
 # Summary of Contributions:
 
-I created all gameplay controls and mechanics related to the delivery truck.
-
-I brought the presentation of delivery reviews to life.
-
-I made the reactive camera system.
-
-I achieved 50% unit testing coverage for all mechanics I worked on.
-
-
-
-
-{% include gallery id = "Contributions" caption= "This is a sample gallery with **Markdown support**." %}
+{% include feature_row id = "Contributions" %}
 
 
 

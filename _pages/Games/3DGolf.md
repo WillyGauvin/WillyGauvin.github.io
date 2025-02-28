@@ -9,18 +9,18 @@ title: "3D Golf"
 
 
 Contributions:
-  - url: Gifs/GolfLightingClose.gif
-    image_path: Gifs/GolfLightingClose.gif
+  - image_path: Gifs/GolfLightingClose.gif
     alt: "Close up lighting"
-    title: "Close up lighting"
-  - url: Gifs/GolfLightingFar.gif
-    image_path: Gifs/GolfLightingFar.gif
+    title: "Reflective Surfaces"
+    excerpt: ""
+  - image_path: Gifs/GolfLightingFar.gif
     alt: "Far lighting"
-    title: "Far lighting"
-  - url: Gifs/GolfLightingMoving.gif
-    image_path: Gifs/GolfLightingMoving.gif
+    title: "A better view of the level"
+    excerpt: ""
+  - image_path: Gifs/GolfLightingMoving.gif
     alt: "Moving example"
-    title: "Moving example"
+    title: "Dynamic Lighting"
+    excerpt: ""
 ---
 {% include video id="1022556421" provider="vimeo" %}
 
@@ -34,8 +34,8 @@ Contributions:
 
 # Summary of Contributions:
 
-I learned to create a lighting shader. This shader is able to calculate specular and diffuse reflections as well as attenuation all based on the position of the camera in scene.
+I learned to create a lighting shader. This shader is able to calculate **specular** (relfection off a smooth surface, like a mirror) and **diffuse** reflections (when light reflects off a rough surface and shines in all directions, like a reflector on the back of a bicycle) as well as **attenuation** (light fades the further it is from the source) all based on the position of the camera in scene.
 
 
-{% include gallery id = "Contributions" %}
+{% include feature_row id = "Contributions" %}
 

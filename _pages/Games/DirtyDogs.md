@@ -20,8 +20,8 @@ title: "Dirty Dogs"
 
 # Summary of Contributions:
 
-I learned how to create a standard Server-Client architecture through proper replication, all hosted on a dedicated server through Steam.
+I challenged myself by taking on development of an Online Multiplayer game for the first time. I had to learn how to develop using standard Server-Client architecture through proper replication. I hosted this on a dedicated server through Steam.
 
-I created all controls for the player.
+I was responsible for creating all gameplay controls with additional support for controller gameplay.
 
 

@@ -9,14 +9,12 @@ title: "Librarian Simulator"
 
 
 Contributions:
-  - url: Gifs/LibrarianNPC1.gif
-    image_path: Gifs/LibrarianNPC1.gif
+  - image_path: Gifs/LibrarianNPC1.gif
     alt: "NPC1"
-    title: "NPC1"
-  - url: Gifs/LibrarianNPC2.gif
-    image_path: Gifs/LibrarianNPC2.gif
+    title: "NPC Checking Out"
+  - image_path: Gifs/LibrarianNPC2.gif
     alt: "NPC2"
-    title: "NPC2"
+    title: "NPC Returning"
 ---
 {% include video id="1043751444" provider="vimeo" %}
 
@@ -31,12 +29,10 @@ Contributions:
 
 # Summary of Contributions:
 
-I created multiple NPC types, all built off a custom Behaviour Tree.
+I created multiple NPC types, all built off a custom <a href="https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control)" target="_blank">Behaviour Tree</a>
 
-I built an inventory system.
-
-I worked to create smooth realtistic interaction with objects around the library.
+I worked to create smooth realtistic interactions with objects around the library.
 
 
-{% include gallery id = "Contributions" %}
+{% include feature_row id = "Contributions" %}
 
