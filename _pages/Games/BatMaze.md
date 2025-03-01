@@ -22,7 +22,7 @@ Contributions:
     title: "A* Pathfinding"
     excerpt: "I programmed A* path finding, an algorithm used to find the shortest route to a destination, and applied it to the bat's movement code to constantly and efficiently chase the player."
 ---
-{% include video id="994538390" provider="vimeo" %}
+{% include video id="1061598242" provider="vimeo" %}
 
 - **Project End**: December 2023
 - **Platforms**: PC
