@@ -18,7 +18,7 @@ Contributions:
     title: "Togglable Blocks"
     excerpt: "I recreated the togglable blocks to add exciting puzzles to the level."
 ---
-{% include video id="994538487" provider="vimeo" %}
+{% include video id="wwBGrgXXz6M" provider="youtube" %}
 
 - **Project End**: December 2023 
 - **Platforms**: PC
