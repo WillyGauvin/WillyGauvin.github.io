@@ -1,10 +1,10 @@
 ---
 permalink: /resume/
-layout: single
+layout: splash
 author_profile: false
 title: "Resume"
 ---
 
-Hello
+<embed src="/Documents/WilliamGauvin_Resume.pdf" type="application/pdf" />
 
 
