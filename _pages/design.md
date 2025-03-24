@@ -87,4 +87,4 @@ PaperPiratesB:
 
 ### Side Scroller
 [View the Design Document](/Documents/LevelDesign.pdf){: .btn .btn--info target="_blank"}
-{% include video id="994538429" provider="vimeo" %}
+{% include video id="_Nx2C-GRgNI" provider="youtube" %}

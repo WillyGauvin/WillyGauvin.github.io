@@ -18,6 +18,7 @@ toc_sticky: true
 
 ## Cinematics
 ### Alien Isolation Trailer
-{% include video id="1025728995" provider="vimeo" %}
+{% include video id="weJJtfI7hVw" provider="youtube" %}
+
 ### Alien Isolation Gameplay Trailer
 {% include video id="1025730239" provider="vimeo" %}

@@ -7,7 +7,7 @@ title: "Sokoban"
 # toc_label: "My Games"
 # toc_sticky: true
 ---
-{% include video id="994538478" provider="vimeo" %}
+{% include video id="cg399mpOqJE" provider="youtube" %}
 
 - **Project End**: November 2023
 - **Platforms**: PC
