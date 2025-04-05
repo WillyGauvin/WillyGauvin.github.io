@@ -1,12 +1,12 @@
 ---
 permalink: /3D-Golf/
-layout: splash
+layout: single
+classes: wide
 author_profile: false
 title: "3D Golf"
-# toc: true
-# toc_label: "My Games"
-# toc_sticky: true
 
+sidebar:
+  nav: "willyiam"
 
 Contributions:
   - image_path: Gifs/GolfLightingClose.gif
