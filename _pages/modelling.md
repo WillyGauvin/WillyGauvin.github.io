@@ -1,6 +1,9 @@
 ---
 permalink: /modelling/
 layout: single
+classes: wide
+sidebar:
+  nav: "willyiam"
 author_profile: false
 title: "Modelling"
 toc: true

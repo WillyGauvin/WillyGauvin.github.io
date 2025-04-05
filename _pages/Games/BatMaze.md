@@ -1,6 +1,9 @@
 ---
 permalink: /Bat-Maze/
-layout: splash
+layout: single
+classes: wide
+sidebar:
+  nav: "willyiam"
 author_profile: false
 title: "Bat Maze"
 # toc: true

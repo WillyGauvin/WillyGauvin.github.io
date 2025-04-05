@@ -1,6 +1,9 @@
 ---
 permalink: /resume/
-layout: splash
+layout: single
+classes: wide
+sidebar:
+  nav: "willyiam"
 author_profile: false
 title: "Resume"
 ---

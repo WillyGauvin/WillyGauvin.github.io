@@ -1,6 +1,9 @@
 ---
 permalink: /Dirty-Dogs/
-layout: splash
+layout: single
+classes: wide
+sidebar:
+  nav: "willyiam"
 author_profile: false
 title: "Dirty Dogs"
 # toc: true
