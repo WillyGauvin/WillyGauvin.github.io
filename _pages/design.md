@@ -1,6 +1,9 @@
 ---
 permalink: /Design/
-layout: splash
+layout: single
+classes: wide
+sidebar:
+  nav: "willyiam"
 author_profile: false
 title: "Design"
 # toc: true

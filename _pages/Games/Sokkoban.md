@@ -1,6 +1,9 @@
 ---
 permalink: /Sokoban/
-layout: splash
+layout: single
+classes: wide
+sidebar:
+  nav: "willyiam"
 author_profile: false
 title: "Sokoban"
 # toc: true

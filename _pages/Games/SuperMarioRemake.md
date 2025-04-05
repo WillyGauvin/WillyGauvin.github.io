@@ -1,6 +1,9 @@
 ---
 permalink: /Super-Mario-Remake/
-layout: splash
+layout: single
+classes: wide
+sidebar:
+  nav: "willyiam"
 author_profile: false
 title: "Super Mario Remake"
 # toc: true
