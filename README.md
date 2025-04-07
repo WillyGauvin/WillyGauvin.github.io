@@ -3,8 +3,17 @@
 Visit my [website](https://willgauvin.com), or run it localy by following the guide below.
 
 ### Local Hosting Setup
-This guide assumes you have Ruby v2 installed. Install [here](https://rubyinstaller.org/)
 
+## Installing Ruby V2
+Install Ruby [here](https://rubyinstaller.org/)
+
+Run and install the program.
+
+Once finished installing, a command window will open and give 3 options of downloading. Choose #3
+
+Boom, Finished
+
+## Installing Bundler
 Using the console in the root of the project, run the command
 ```
 gem install bundler
