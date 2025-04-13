@@ -60,7 +60,10 @@ newShooting:
   - url: /Gifs/Postal/NewShooting.gif
     image_path: /Gifs/Postal/NewShooting.gif
 ---
-{% include video id="YL3SATmfDdM" provider="youtube" %}
+
+{% include video id="2qIY7cBSxPo" provider="youtube" %}
+
+[Checkout our Itch.io page](https://pixelparcelproductions.itch.io/postal-apocalypse)
 
 - **Release**: April 2025  
 - **Studio**: Pixel Parcel Productions  
