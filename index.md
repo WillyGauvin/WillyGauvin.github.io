@@ -89,7 +89,7 @@ Games2:
     excerpt: "-**Project End**: December 2023 <br>
 -**Platforms**: PC <br>
 -**Skill Focus**: Engine Programming <br> 
--**Engine**: Custom Game Engine <br>
+-**Engine**: [Custom Game Engine](/Custom-Engine/) <br>
 -**Time Spent on Project**: 12 Weeks."
 
     url: "/Bat-Maze/"
@@ -101,7 +101,7 @@ Games2:
     excerpt: "-**Project End**: March 2024 <br> 
 -**Platforms**: PC <br>
 -**Skill Focus**: Engine Programming <br> 
--**Engine**: Custom Game Engine <br>
+-**Engine**: [Custom Game Engine](/Custom-Engine/) <br>
 -**Time Spent on Project**: 2 Weeks"
 
     url: "/Lunar-Lander/"
@@ -115,7 +115,7 @@ Games3:
     excerpt: "-**Project End**: April 2024 <br> 
 -**Platforms**: PC <br>
 -**Skill Focus**: Engine Programming. <br>
--**Engine**: Custom Engine <br>
+-**Engine**: [Custom Game Engine](/Custom-Engine/) <br>
 -**Time Spent on Project**: 8 Weeks"
 
     url: "/3D-Golf/"
@@ -139,7 +139,7 @@ Games3:
     excerpt: "-**Project End**: November 2023 <br>
 -**Platforms**: PC <br>
 -**Skill Focus**: Engine Programming <br>
--**Engine**: Custom Game Engine <br>
+-**Engine**: [Custom Game Engine](/Custom-Engine/) <br>
 -**Time Spent on Project**: 3 Weeks"
 
     url: "/Sokoban/"
