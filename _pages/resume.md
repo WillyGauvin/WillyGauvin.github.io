@@ -8,6 +8,6 @@ author_profile: false
 title: "Resume"
 ---
 
-<embed src="/Documents/WilliamGauvin_Resume.pdf" type="application/pdf" />
+<embed src="/Documents/Resume_WillGauvin.pdf" type="application/pdf" />
 
 
