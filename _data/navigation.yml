@@ -11,12 +11,14 @@ main:
     url: /Dirty-Dogs/
   - title: "Librarian Simulator"
     url: /Librarian-Simulator/
+  - title: "Custom Game Engine"
+    url: /Custom-Engine/
+  - title: "Storytelling"
+    url: /Storytelling/
   - title: "Bat Maze"
     url: /Bat-Maze/
   - title: "Design"
     url: /Design/
-  - title: "Storytelling"
-    url: /Storytelling/
   - title: "Resume"
     url: /resume/
   - title: "3D Golf"
