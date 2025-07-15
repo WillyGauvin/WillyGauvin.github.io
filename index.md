@@ -36,7 +36,7 @@ Games1:
     excerpt: "-**Release**: April 2025 <br>  
 -**Studio**: Going Postal Productions  <br> 
 -**Platforms**: PC, Linix. Controller support <br>  
--**Skill Focus**: Player Controls, Camera Behaviour, Unit Testing, UI.  <br> 
+-**Skill Focus**: Core Gameplay and Physics, Quality Assurance, UI programming. <br> 
 -**Engine**: Unity  <br> 
 -**Time Spent on Project**: 8 months"
 
@@ -153,11 +153,11 @@ Games3:
 # About
 
 ![image-left](Photos/HomePage/Will246.jpg){: .align-left}
-I am a game programmer, designer, writer and cinematic artist with over 3 years of specialized education in game development.  
+Hi! My name is Will Gauvin, I'm a games programmer, artist, designer, and writer with over 3 years of specialized education in game development.
 
-Developing immersive video game mechanics is my passion.
+I'm a recent graduate of Algonquin College's Game Development program with a specialization in programming.
 
-I am currently completing my final semester in Game Development at Algonquin College.
+I'm currently working on a first person horror game about Chimpanzees's. I'll post the demo here near the end of the summer!
 
 <br>
 ---
