@@ -31,6 +31,18 @@ myInterests:
     btn_class: "btn--primary"
 
 Games1:
+  - image_path: Photos/GameScreenShots/HotReload.png
+    title: "Hott Reload"
+    excerpt: "-**Release**: August 3rd 2024 <br>  
+-**Platforms**: WebGL, Windows <br>  
+-**Skill Focus**: Gameplay programming, FMOD Audio Integration, Team management <br> 
+-**Engine**: Unity  <br> 
+-**Time Spent on Project**: 4 days"
+
+    url: "/Hot-Reload/"
+    btn_label: "Hot Reload"
+    btn_class: "btn--success"
+
   - image_path: Photos/GameScreenShots/PostalApocalypse.png
     title: "Postal Apocalypse"
     excerpt: "-**Release**: April 2025 <br>  
@@ -57,6 +69,7 @@ Games1:
     btn_label: "Dirty Dogs"
     btn_class: "btn--success"
 
+Games2:
   - image_path: Photos/GameScreenShots/LibrarianGame.jpg
     title: "Librarian Simulator"
     excerpt: "-**Project End**: June 2024 <br>
@@ -68,10 +81,8 @@ Games1:
 
     url: "/Librarian-Simulator/"
     btn_label: "Librarian Simulator"
-    btn_class: "btn--success"
+    btn_class: "btn--danger"
 
-
-Games2:
   - image_path: Photos/GameScreenShots/SuperMario.png
     title: "Super Mario Remake"
     excerpt: "-**Project End**: December 2023 <br> 
@@ -96,6 +107,9 @@ Games2:
     btn_label: "Bat Maze"
     btn_class: "btn--danger"
 
+
+Games3:
+
   - image_path: Photos/GameScreenShots/LunarLander.png
     title: "Lunar Lander"
     excerpt: "-**Project End**: March 2024 <br> 
@@ -106,10 +120,8 @@ Games2:
 
     url: "/Lunar-Lander/"
     btn_label: "Lunar Lander"
-    btn_class: "btn--danger"
-
-
-Games3:
+    btn_class: "btn--warning"
+    
   - image_path: Photos/GameScreenShots/3DGolf.png
     title: "3D Golf"
     excerpt: "-**Project End**: April 2024 <br> 
@@ -134,6 +146,8 @@ Games3:
     btn_label: "Asteroids"
     btn_class: "btn--warning"
 
+Games4:
+
   - image_path: Photos/GameScreenShots/Sokoban.png
     title: "Sokoban"
     excerpt: "-**Project End**: November 2023 <br>
@@ -144,7 +158,7 @@ Games3:
 
     url: "/Sokoban/"
     btn_label: "Sokoban"
-    btn_class: "btn--warning"
+    btn_class: "btn--success"
 
 ---
 
@@ -170,6 +184,8 @@ I'm currently working on a first person horror game about Chimpanzees's. I'll po
 {% include feature_row id="Games2"%}
 
 {% include feature_row id="Games3"%}
+
+{% include feature_row id="Games4"%}
 
 # Other Skills
 
