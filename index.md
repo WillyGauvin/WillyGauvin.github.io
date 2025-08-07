@@ -32,7 +32,7 @@ myInterests:
 
 Games1:
   - image_path: Photos/GameScreenShots/HotReload.png
-    title: "Hott Reload"
+    title: "Hot Reload"
     excerpt: "-**Release**: August 3rd 2024 <br>  
 -**Platforms**: WebGL, Windows <br>  
 -**Skill Focus**: Gameplay programming, FMOD Audio Integration, Team management <br> 
