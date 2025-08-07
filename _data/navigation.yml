@@ -5,6 +5,8 @@ main:
   #  target: _blank
   - title: "Home"
     url: /
+  - title: "Hot Reload"
+    url: /Hot-Reload/
   - title: "Postal Apocalypse"
     url: /Postal-Apocalypse/
   - title: "Dirty Dogs"
@@ -35,6 +37,8 @@ main:
 willyiam:
   - title: Unity
     children:
+      - title: "Hot Reload"
+        url: /Hot-Reload/
       - title: "Postal Apocalypse"
         url: /Postal-Apocalypse/
       - title: "Librarian Simulator"
