@@ -45,7 +45,7 @@ CommandBlockInteraction3:
 
 ![image-center](/Photos/GameScreenShots/HotReload.png){: .align-center}
 
-**[Play the game on itch!](https://willygauvin.itch.io/hotreload)**
+**[Play the game on itch!](https://willygauvin.itch.io/hotreload){:target="_blank"}**
 
 # About the game
 Hot Reload was my submission for the 2025 GMTK Game Jam. We had 96 hours to create a game based on the theme "Loop". **The game placed <u>90th</u> in creativity against <u>9654</u> entries.**
@@ -58,10 +58,10 @@ Hot Reload is a 3D puzzle adventure where you play as the operator of a robot co
 - **Development Time**: 4 Days!  
 
 I put together a team of 5 for this jam:
-* [BirchTree](https://birchtree.itch.io/): 3D Assets, visual effects, level design
-* [Izaak Aidid](https://coolguy3267.itch.io/): Gamestate programmer
-* [Tristan Blaskowitz](https://tristanblaskowitz.itch.io/): Sound and Music
-* [Don-Tnowe](https://don-tnowe.itch.io/): UI/Menus
+* [BirchTree](https://birchtree.itch.io/){:target="_blank"}: 3D Assets, visual effects, level design
+* [Izaak Aidid](https://coolguy3267.itch.io/){:target="_blank"}: Gamestate programmer
+* [Tristan Blaskowitz](https://tristanblaskowitz.itch.io/){:target="_blank"}: Sound and Music
+* [Don-Tnowe](https://don-tnowe.itch.io/){:target="_blank"}: UI/Menus
 * Will Gauvin: Gameplay programmer, audio programmer, team lead
 
 # My contributions to the game:
@@ -134,7 +134,7 @@ This was a special type of block given to the player in later levels. Upon entry
 ![image-center](/Gifs/HotReload/ExplosionBlock.gif){: .align-center}
 
 ## Audio Integration (FMOD)
-I had been wanting the opportunity to learn FMOD and this project was a great time to do so. Our Sound and Music designer, [Tristan Blaskowitz](https://tristanblaskowitz.itch.io/) would work in FMOD Studio and upload his banks to the projects repository, where I would then integrate them into the project.  
+I had been wanting the opportunity to learn FMOD and this project was a great time to do so. Our Sound and Music designer, [Tristan Blaskowitz](https://tristanblaskowitz.itch.io/){:target="_blank"} would work in FMOD Studio and upload his banks to the projects repository, where I would then integrate them into the project.  
 I did so by creating an Audio Manager class that was responsible for playing one-shots, creating and cleaning up instances for looping sounds (music, ambience, footsteps), and controlling said instances (changing parameters, strating/stopping).  
 I also created a singleton class that stored the path to each sound in the bank, allowing me to reference the singleton instead of hard-coding or storing the path in every class needed.
 
