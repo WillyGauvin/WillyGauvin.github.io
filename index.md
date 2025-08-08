@@ -3,8 +3,9 @@ title: Will Gauvin - Game Developer Portfolio
 layout: splash
 author_profile: false
 
+
 header:
-  overlay_image: Photos/HomePage/SplashPage.png
+  overlay_image: Photos/HomePage/SplashPage2.png
   # actions:
     # - label: "Download"
     #   url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -161,6 +162,25 @@ Games4:
     btn_class: "btn--success"
 
 ---
+<style>
+  .page__hero--overlay .page__title {
+    text-align: center;
+  }
+
+.page__hero--overlay .page__title,
+.page__hero--overlay h1.page__title {
+  color: #ffffffff !important; /* your color */
+  -webkit-text-fill-color: #ffffffff !important; /* ensures no gradient mask */
+}
+.page__hero--overlay .page__title {
+  display: inline-block; /* shrink-wrap to text */
+  background-color: rgba(0, 0, 0, 0.5); /* 50% black */
+  padding: 0.3em 0.3em;
+  border-radius: 6px;
+  margin: 0 auto;
+}
+
+</style>
 
 ---
 

@@ -47,16 +47,15 @@ CommandBlockInteraction3:
 
 **[Play the game on itch!](https://willygauvin.itch.io/hotreload)**
 
-Hot Reload is a 3D puzzle adventure where you play as the operator of a robot companion. Rearrange command blocks within its looping execution track to solve challenges and navigate the environment. Use blocks found throughout the level to program your robot, but be careful: any commands left behind will repeat, sometimes with unintended consequences.
+# About the game
+Hot Reload was my submission for the 2025 GMTK Game Jam. We had 96 hours to create a game based on the theme "Loop". **The game placed <u>90th</u> in creativity against <u>9654</u> entries.**
 
+Hot Reload is a 3D puzzle adventure where you play as the operator of a robot companion. Rearrange command blocks within its looping execution track to solve challenges and navigate the environment. Use blocks found throughout the level to program your robot, but be careful: any commands left behind will repeat, sometimes with unintended consequences.
 
 - **Release**: August 3rd 2025    
 - **Skill Focus**: Gameplay programming, FMOD Audio Integration, Team management.  
 - **Made in**: Unity  
 - **Development Time**: 4 Days!  
-
-# About the game
-Hot Reload was my submission for the 2025 GMTK Game Jam. We had 96 hours to create a game based on the theme "Loop".
 
 I put together a team of 5 for this jam:
 * [BirchTree](https://birchtree.itch.io/): 3D Assets, visual effects, level design
