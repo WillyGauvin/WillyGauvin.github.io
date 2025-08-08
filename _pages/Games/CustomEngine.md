@@ -88,4 +88,4 @@ Checkout the games I built using this engine.
 
 
 # Download the repository
-**[Download the repository here](https://github.com/WillyGauvin/GameEngine)**
+**[Download the repository here](https://github.com/WillyGauvin/GameEngine){:target="_blank"}**

@@ -191,7 +191,7 @@ Hi! My name is Will Gauvin, I'm a games programmer, artist, designer, and writer
 
 I'm a recent graduate of Algonquin College's Game Development program with a specialization in programming.
 
-I'm currently working on a first person horror game about Chimpanzees's. I'll post the demo here near the end of the summer!
+My game Hot Reload just placed in the top 1% of games the 2025 Game Maker's Toolkit Game Jam! Check it out [here](https://willygauvin.itch.io/hotreload){:target="_blank"}
 
 <br>
 ---
