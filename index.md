@@ -13,7 +13,7 @@ header:
 intro: 
   - image_path: Photos/HomePage/Will.jpg
     title: "About"
-    excerpt: "I am a game programmer, designer, writer and cinematic artist with over 3 years of specialized education in this field."
+    excerpt: "I am a gameplay/audio programmer, designer, writer and cinematic artist with over 3 years of specialized education in this field."
 
 myInterests:
   - image_path: Photos/GameScreenShots/Design.png
