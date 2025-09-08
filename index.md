@@ -5,7 +5,7 @@ author_profile: false
 
 
 header:
-  overlay_image: Photos/HomePage/SplashPage2.png
+  overlay_image: Photos/HomePage/SplashPage3.png
   # actions:
     # - label: "Download"
     #   url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -32,9 +32,21 @@ myInterests:
     btn_class: "btn--primary"
 
 Games1:
+  - image_path: Photos/GameScreenShots/RiskItForBiscuit.png
+    title: "Risk It For Biscuit"
+    excerpt: "-**Release**: August 31st 2025 <br>  
+-**Platforms**: WebGL, Windows <br>  
+-**Skill Focus**: Team Lead, Gameplay Systems Programming, FMOD Audio Integration<br> 
+-**Engine**: Unity  <br> 
+-**Time Spent on Project**: 7 days"
+
+    url: "/Risk-It-For-Biscuit/"
+    btn_label: "Risk It For Biscuit"
+    btn_class: "btn--success"
+
   - image_path: Photos/GameScreenShots/HotReload.png
     title: "Hot Reload"
-    excerpt: "-**Release**: August 3rd 2024 <br>  
+    excerpt: "-**Release**: August 3rd 2025 <br>  
 -**Platforms**: WebGL, Windows <br>  
 -**Skill Focus**: Gameplay programming, FMOD Audio Integration, Team management <br> 
 -**Engine**: Unity  <br> 
@@ -57,6 +69,7 @@ Games1:
     btn_label: "Postal Apocalypse"
     btn_class: "btn--success"
 
+Games2:
   - image_path: Photos/GameScreenShots/Logo.png
     title: "Dirty Dogs"
     excerpt: "-**Released**: April 2024 <br>
@@ -68,9 +81,8 @@ Games1:
 
     url: "/Dirty-Dogs/"
     btn_label: "Dirty Dogs"
-    btn_class: "btn--success"
+    btn_class: "btn--danger"
 
-Games2:
   - image_path: Photos/GameScreenShots/LibrarianGame.jpg
     title: "Librarian Simulator"
     excerpt: "-**Project End**: June 2024 <br>
@@ -96,6 +108,9 @@ Games2:
     btn_label: "Super Mario Remake"
     btn_class: "btn--danger"
 
+
+Games3:
+
   - image_path: Photos/GameScreenShots/BatMaze.png
     title: "Bat Maze"
     excerpt: "-**Project End**: December 2023 <br>
@@ -106,10 +121,7 @@ Games2:
 
     url: "/Bat-Maze/"
     btn_label: "Bat Maze"
-    btn_class: "btn--danger"
-
-
-Games3:
+    btn_class: "btn--warning"
 
   - image_path: Photos/GameScreenShots/LunarLander.png
     title: "Lunar Lander"
@@ -135,18 +147,6 @@ Games3:
     btn_label: "3D Golf"
     btn_class: "btn--warning"
 
-  - image_path: Photos/GameScreenShots/Asteroids.png
-    title: "Asteroids"
-    excerpt: "-**Project End**: November 2023 <br>
--**Platforms**: PC <br>
--**Skill Focus**: Solo-Developer <br> 
--**Engine**: GameDev2D (Educational Game Engine) <br>
--**Time Spent on Project**: 2 weeks"
-
-    url: "/Asteroids/"
-    btn_label: "Asteroids"
-    btn_class: "btn--warning"
-
 Games4:
 
   - image_path: Photos/GameScreenShots/Sokoban.png
@@ -159,6 +159,18 @@ Games4:
 
     url: "/Sokoban/"
     btn_label: "Sokoban"
+    btn_class: "btn--success"
+
+  - image_path: Photos/GameScreenShots/Asteroids.png
+    title: "Asteroids"
+    excerpt: "-**Project End**: November 2023 <br>
+-**Platforms**: PC <br>
+-**Skill Focus**: Solo-Developer <br> 
+-**Engine**: GameDev2D (Educational Game Engine) <br>
+-**Time Spent on Project**: 2 weeks"
+
+    url: "/Asteroids/"
+    btn_label: "Asteroids"
     btn_class: "btn--success"
 
 ---
