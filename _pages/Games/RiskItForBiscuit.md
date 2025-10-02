@@ -41,7 +41,6 @@ The Debt Shop allows players to take out and pay back high-interest loans from t
 
 ![image-center](/Gifs/RiskItForBiscuit/Shops/DebtShop.gif){: .align-center}
 
-
 * Each loan is stored in a list held by a master ScriptableObject
 * This allows for the player's debt balance to be persistent across scenes.
 * The master ScriptableObject applies interest to each loan at the end of every day.
