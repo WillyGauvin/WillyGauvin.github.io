@@ -199,11 +199,11 @@ Games4:
 # About
 
 ![image-left](Photos/HomePage/Will246.jpg){: .align-left}
-Hi! My name is Will Gauvin, I'm a games programmer, artist, designer, and writer with over 3 years of specialized education in game development.
+Hi! I’m Will Gauvin, a gameplay programmer, artist, designer, and writer with a strong focus on systems-driven game development.
 
-I'm a recent graduate of Algonquin College's Game Development program with a specialization in programming.
+I’m currently working professionally as a Gameplay Programmer at Cradle Games in Quebec City, where I contribute to gameplay features, tools, and technical problem-solving on a live production.
 
-My game Hot Reload just placed in the top 1% of games the 2025 Game Maker's Toolkit Game Jam! Check it out [here](https://willygauvin.itch.io/hotreload){:target="_blank"}
+I’m a graduate of Algonquin College’s Game Development program, specializing in programming, and I enjoy building tight mechanics, scalable systems, and immersive gameplay experiences.
 
 <br>
 ---
