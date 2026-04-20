@@ -5,7 +5,7 @@ author_profile: false
 
 
 header:
-  overlay_image: Photos/HomePage/SplashPage3.png
+  overlay_image: Photos/HomePage/SplashPage4.png
   # actions:
     # - label: "Download"
     #   url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -32,6 +32,19 @@ myInterests:
     btn_class: "btn--primary"
 
 Games1:
+
+  - image_path: Photos/GameScreenShots/DrippinJack.png
+    title: "Drippin' Jack"
+    excerpt: "-**Release**: February 8th 2026 <br>  
+-**Platforms**: WebGL, Windows <br>  
+-**Skill Focus**: Team Lead, Gameplay Programming<br> 
+-**Engine**: Unity <br> 
+-**Time Spent on Project**: 10 days"
+
+    url: "/Drippin-Jack/"
+    btn_label: "Drippin' Jack"
+    btn_class: "btn--success"
+
   - image_path: Photos/GameScreenShots/RiskItForBiscuit.png
     title: "Risk It For Biscuit"
     excerpt: "-**Release**: August 31st 2025 <br>  
@@ -56,6 +69,8 @@ Games1:
     btn_label: "Hot Reload"
     btn_class: "btn--success"
 
+
+Games2:
   - image_path: Photos/GameScreenShots/PostalApocalypse.png
     title: "Postal Apocalypse"
     excerpt: "-**Release**: April 2025 <br>  
@@ -67,9 +82,8 @@ Games1:
 
     url: "/Postal-Apocalypse/"
     btn_label: "Postal Apocalypse"
-    btn_class: "btn--success"
+    btn_class: "btn--danger"
 
-Games2:
   - image_path: Photos/GameScreenShots/Logo.png
     title: "Dirty Dogs"
     excerpt: "-**Released**: April 2024 <br>
@@ -96,6 +110,9 @@ Games2:
     btn_label: "Librarian Simulator"
     btn_class: "btn--danger"
 
+
+
+Games3:
   - image_path: Photos/GameScreenShots/SuperMario.png
     title: "Super Mario Remake"
     excerpt: "-**Project End**: December 2023 <br> 
@@ -106,10 +123,7 @@ Games2:
 
     url: "/Super-Mario-Remake/"
     btn_label: "Super Mario Remake"
-    btn_class: "btn--danger"
-
-
-Games3:
+    btn_class: "btn--warning"
 
   - image_path: Photos/GameScreenShots/BatMaze.png
     title: "Bat Maze"
@@ -135,6 +149,8 @@ Games3:
     btn_label: "Lunar Lander"
     btn_class: "btn--warning"
     
+
+Games4:
   - image_path: Photos/GameScreenShots/3DGolf.png
     title: "3D Golf"
     excerpt: "-**Project End**: April 2024 <br> 
@@ -145,9 +161,7 @@ Games3:
 
     url: "/3D-Golf/"
     btn_label: "3D Golf"
-    btn_class: "btn--warning"
-
-Games4:
+    btn_class: "btn--success"
 
   - image_path: Photos/GameScreenShots/Sokoban.png
     title: "Sokoban"

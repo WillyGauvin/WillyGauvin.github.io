@@ -7,6 +7,8 @@ main:
     url: /
   - title: "Hot Reload"
     url: /Hot-Reload/
+  - title: "Dripping Jack"
+    url: /Drippin-Jack/
   - title: "Risk It For Biscuit"
     url: /Risk-It-For-Biscuit/
   - title: "Postal Apocalypse"
@@ -39,6 +41,8 @@ main:
 willyiam:
   - title: Unity
     children:
+      - title: "Dripping Jack"
+        url: /Drippin-Jack/
       - title: "Risk It For Biscuit"
         url: /Risk-It-For-Biscuit/
       - title: "Hot Reload"
