@@ -71,13 +71,15 @@ BeforeAfterBack:
 **[Play the game on itch!](https://willygauvin.itch.io/drippinjack){:target="_blank"}**
 
 # About the game
-Drippin' Jack was my teams submission for the 2026 Bigmode Game Jam. For ten days, I led a team of four to create this game based on the theme "Slick".
+Drippin' Jack was my team's submission for the 2026 Bigmode Game Jam. For ten days, I led a team of four to create this game based on the theme "Slick".
 
 Drippin’ Jack is a chaotic third-person heist game where speed and control are constantly at odds. You play as Jack, a nervous thief attempting to steal as many fragile vases as possible before the museum’s security system comes back online.
 
 There’s just one problem...Jack can’t stop sweating.
 
-His slippery hands make it harder to hold onto stolen loot, while sweat pooling beneath his feet turns every step into a hazard. Move too fast, and you might wipe out. Crash into walls or obstacles, and Jack ragdolls, sending both him and any vases flying.
+His slippery hands make it harder to hold onto stolen loot, while sweat pooling beneath his feet turns every step into a hazard.
+
+Move too fast, and he might wipe out. Crash into walls or obstacles, and Jack ragdolls, sending both him and any vases flying.
 
 Navigate tight areas, avoid disaster, and push your luck: how much can you steal before everything falls apart?
 
@@ -99,24 +101,24 @@ I wanted something that felt like like our character was actually regaining thei
 I implemented a system to determine the characters physical state on the ground. The script checks the hips' orientation to determine if Jack is laying on his stomach or back.
 Based on that, we can determine which getup animation to play.
 
-Additionally, I rotate the animator before triggering the animation to match the orientation of the ragdoll.
+Additionally, the script rotates the animator before triggering the animation to match the orientation of the ragdoll.
 
 {% include gallery id="Orientation" caption="Correct animation and orientation" %}
 
 We've solved which animation to use, and what orientation to set the player at. But we're still snapping to that first frame.
 
 ## Bone-Space Interpolation
-This is the secret sauce, the Resetting Bone state. I need to interpolate the position and rotation of every single bone to the first frame of my animations.
-To save on performance, I pre sampled these values and store them in the project to be easily accessed when needed.
-When it's time to get up, I run a manual loop that linearly interpolates every single bone from its chaotic ragdoll position to that saved Frame 1 pose.
+This is the secret sauce, the Resetting Bone state. My script need to interpolate the position and rotation of every single bone to the first frame of my animations.
+To save on performance, it pre samples these values once and stores them to be easily accessed when needed.
+When it's time to get up, the script runs a manual loop that linearly interpolates every single bone from its chaotic ragdoll position to that saved Frame 1 pose.
 It happens in a fraction of a second, so you see the limbs physically pull themselves into a coherent starting pose.
 
 {% include gallery id="Interpolation" caption="Interpolation from last ragdoll position to first frame position" %}
 
 
 ## Handoff to the Animator
-Once the bones are aligned with the target pose, I perform the switch. I set the rigidbodies responsible for the ragdoll physics back to kinematic, re-enable the Animator, and trigger the stand-up state.
-Because I've already manually moved the bones to that frame 1 position, the handoff is invisible. The result is a smooth recovery that maintains the physical presence of the character throughout the whole loop
+Once the bones are aligned with the target pose, the script performs the switch. The rigidbodies responsible for the ragdoll physics are set back to kinematic, the Animator is re-enabled, and the stand-up animation is triggered.
+Because bones have already been moved and rotated to that frame 1 position, the handoff is invisible. The result is a smooth recovery that maintains the physical presence of the character throughout the whole loop
 
 {% include gallery id="BeforeAfterFront" caption="Falling forward, before and after." %}
 {% include gallery id="BeforeAfterBack" caption="Falling backward, before and after" %}
