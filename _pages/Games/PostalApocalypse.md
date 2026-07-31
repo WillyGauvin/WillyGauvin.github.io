@@ -11,51 +11,38 @@ toc: true
 toc_sticky: true
 
 initialIdea:
-  - url: /Gifs/Postal/InitialIdea1.gif
-    image_path: /Gifs/Postal/InitialIdea1.gif
-  - url: /Gifs/Postal/InitialIdea2.gif
-    image_path: /Gifs/Postal/InitialIdea2.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Postal/InitialIdea1.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Postal/InitialIdea2.gif
 
 initialWorld:
-  - url: /Gifs/Postal/InitialWorld1.gif
-    image_path: /Gifs/Postal/InitialWorld1.gif
-  - url: /Gifs/Postal/InitialWorld2.gif
-    image_path: /Gifs/Postal/InitialWorld2.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Postal/InitialWorld1.gif?updatedAt=1785512499907
+  - image_path: https://ik.imagekit.io/willgauvin/Postal/InitialWorld2.gif
 
 flips:
   - image_path: https://ik.imagekit.io/willgauvin/Postal/FrontFlip.gif?updatedAt=1785509038863
   - image_path: https://ik.imagekit.io/willgauvin/Postal/BackFlip.gif?updatedAt=1785509039069
 
 shootingBullets:
-  - url: /Gifs/Postal/Shoot1.gif
-    image_path: /Gifs/Postal/Shoot1.gif
-  - url: /Gifs/Postal/Shoot2.gif
-    image_path: /Gifs/Postal/Shoot2.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Postal/Shoot1.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Postal/Shoot2.gif
 
 shootingPackages:
-  - url: /Gifs/Postal/Package1.gif
-    image_path: /Gifs/Postal/Package1.gif
-  - url: /Gifs/Postal/Package2.gif
-    image_path: /Gifs/Postal/Package2.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Postal/Package1.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Postal/Package2.gif
 
 moreSpeed:
   - image_path: https://ik.imagekit.io/willgauvin/Postal/IncreasedSpeed.gif?updatedAt=1785509041262
-  - url: /Gifs/Postal/Boost.gif
-    image_path: /Gifs/Postal/Boost.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Postal/Boost.gif?updatedAt=1785513582344
 
 lateralForce:
-  - url: /Gifs/Postal/LateralForces.gif
-    image_path: /Gifs/Postal/LateralForces.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Postal/LateralForces.gif
 
 packTrajectory_Laser:
-  - url: /Gifs/Postal/PackageTrajectory1.gif
-    image_path: /Gifs/Postal/PackageTrajectory1.gif
-  - url: /Gifs/Postal/LaserShooting.gif
-    image_path: /Gifs/Postal/LaserShooting.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Postal/PackageTrajectory1.gif?updatedAt=1785513582662
+  - image_path: https://ik.imagekit.io/willgauvin/Postal/LaserShooting.gif
 
 newShooting:
-  - url: /Gifs/Postal/NewShooting.gif
-    image_path: /Gifs/Postal/NewShooting.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Postal/NewShooting.gif?updatedAt=1785513583303
 ---
 
 {% include video id="-492X9WQeR8" provider="youtube" %}

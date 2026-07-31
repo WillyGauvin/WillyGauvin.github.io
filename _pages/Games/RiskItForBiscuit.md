@@ -103,7 +103,7 @@ The system checks for valid placement to ensure obstacles don’t overlap and re
 ### Obstacle Inventory and Shop Integration
 Obstacles are stored in an inventory with counts for each type. Players can acquire obstacles via the Obstacle Shop, which uses ScriptableObjects to save which obstacles are available and their prices.  
 Placing an obstacle automatically reduces its count in the inventory, and removing it adds it back.
-![image-center](/Gifs/RiskItForBiscuit/Shops/ObstacleShopInteraction.gif){: .align-center}
+![image-center](https://ik.imagekit.io/willgauvin/RiskItForBiscuit/Shops/ObstacleShopInteraction.gif?updatedAt=1785509011279){: .align-center}
 
 ## Visual Feedback
 The system uses a PreviewSystem to show a ghosted version of the obstacle before placement. It changes color to indicate whether the placement is valid (white) or invalid (red). A separate cell indicator shows which grid cells will be occupied.

@@ -12,7 +12,7 @@ title: "Super Mario Remake"
 
 
 Contributions:
-  - image_path: Gifs/Mario/MarioGoomba.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Mario/MarioGoomba.gif?updatedAt=1785512909343
     alt: "Goomba"
     title: "Goomba's Shooting Projectiles"
     excerpt: "I reimagined the classic Super Mario enemy, Goomba's. These Goombas have the ability to shoot projectiles at the player."

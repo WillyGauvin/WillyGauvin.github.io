@@ -9,7 +9,7 @@ sidebar:
   nav: "willyiam"
 
 Contributions:
-  - image_path: Gifs/Golf/GolfLightingClose.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Golf/GolfLightingClose.gif
     alt: "Close up lighting"
     title: "Reflective Surfaces"
     excerpt: ""

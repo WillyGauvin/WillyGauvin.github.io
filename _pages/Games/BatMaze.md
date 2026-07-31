@@ -16,7 +16,7 @@ Contributions:
     alt: "FocusCamera"
     title: "Follow Camera"
     excerpt: "I developed a Follow Camera system that tracks the player as they move around the level. I also added support to track multiple subjects at once, keeping all subjects constantly in view on screen."
-  - image_path: Gifs/Maze/BatMazeIMGUI.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Maze/BatMazeIMGUI.gif
     alt: "IMGUI Debugger"
     title: "Debugger using IMGUI Library"
     excerpt: "I integrated the IMGUI library to allow me to monitor values at runtime (when the game is playing). This helps the user tremendously with debugging while creating their game."
