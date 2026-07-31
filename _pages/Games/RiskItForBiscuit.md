@@ -13,7 +13,7 @@ toc_sticky: true
 
 ![image-center](/Photos/GameScreenShots/RiskItForBiscuit.png){: .align-center}
 
-**[Play the game on itch!](https://willygauvin.itch.io/risk-it-for-biscuit){:target="_blank"}**
+[Play the game In browser on Itch.io!](https://willygauvin.itch.io/risk-it-for-biscuit){:target="_blank" .btn .btn--danger}
 
 # About the game
 Risk It For Biscuit was my submission for Brackeys 2025.2 Game Jam. I led a team of 8 to create a game in 7 days based on the theme "Risk It For The Biscuit".
@@ -36,7 +36,7 @@ The progression in Risk It For Biscuit is built around several interconnected sh
 ## Debt Shop
 The Debt Shop allows players to take out and pay back high-interest loans from the Dog Mafia. These loans are stored in ScriptableObjects so the player’s debt balance carries seamlessly from the shop scene into the gameplay scene. This makes every financial decision long-lasting, not just a one-off menu choice.
 
-![image-center](/Gifs/RiskItForBiscuit/Shops/DebtShop.gif){: .align-center}
+![image-center](https://ik.imagekit.io/willgauvin/RiskItForBiscuit/Shops/DebtShop.gif?updatedAt=1785509011874){: .align-center}
 
 * Each loan is stored in a list held by a master ScriptableObject
 * This allows for the player's debt balance to be persistent across scenes.
@@ -46,7 +46,7 @@ The Debt Shop allows players to take out and pay back high-interest loans from t
 ## Obstacle Shop
 In the Obstacle Shop, players can buy floating obstacles to use in dives to earn more score.
 
-![image-center](/Gifs/RiskItForBiscuit/Shops/ObstacleShopInteraction.gif){: .align-center}
+![image-center](https://ik.imagekit.io/willgauvin/RiskItForBiscuit/Shops/ObstacleShopInteraction.gif?updatedAt=1785509011279){: .align-center}
 
 * Each obstacle’s cost and price-scaling are stored in a ScriptableObject list.
 * When the shop loads, I create a runtime clone of that data, so prices and purchases can change without altering the original asset.
@@ -55,7 +55,7 @@ In the Obstacle Shop, players can buy floating obstacles to use in dives to earn
 ## Trainer Shop
 Trainers are built using the same ScriptableObject approach:
 
-![image-center](/Gifs/RiskItForBiscuit/Shops/TrainerShopInteraction.gif){: .align-center}
+![image-center](https://ik.imagekit.io/willgauvin/RiskItForBiscuit/Shops/TrainerShopInteraction.gif?updatedAt=1785509013319){: .align-center}
 
 * Each trainer stores its icon, name, price, permanent upgrades, and special perk in a TrainerDataSO.
 * When a trainer is purchased, the data gets flagged as unlocked in the runtime copy.
@@ -73,7 +73,7 @@ For example, upon loading the dock scene:
   * If you bought a jump height upgrade in the shop, the UpgradeManager calls upon the Dog script to increase this stat.
   * If you bought a dock upgrade, the UpgradeManager calls upon the DockManager to increase the size of the dock.
 
-![image-center](/Gifs/RiskItForBiscuit/Shops/DockSizeIncrease.gif){: .align-center}
+![image-center](https://ik.imagekit.io/willgauvin/RiskItForBiscuit/Shops/DockSizeIncrease.gif?updatedAt=1785509041760){: .align-center}
 
 
 ## All Together
@@ -92,13 +92,13 @@ In my game, players can place obstacles on a grid-based map to influence gamepla
 
 ## Grid and Placement Logic
 The world is divided into a grid where each cell can be occupied by an obstacle. 
-![image-center](/Gifs/RiskItForBiscuit/BuildMode/GridSize.gif){: .align-center}
+![image-center](https://ik.imagekit.io/willgauvin/RiskItForBiscuit/BuildMode/GridSize.gif?updatedAt=1785509037954){: .align-center}
 
 Each obstacle has a size and occupies multiple cells if necessary. 
-![image-center](/Gifs/RiskItForBiscuit/BuildMode/ObstacleSize.gif){: .align-center}
+![image-center](https://ik.imagekit.io/willgauvin/RiskItForBiscuit/BuildMode/ObstacleSize.gif?updatedAt=1785509034366){: .align-center}
 
 The system checks for valid placement to ensure obstacles don’t overlap and respect any allowed/blocked rows.
-![image-center](/Gifs/RiskItForBiscuit/BuildMode/validAndInvalidPlacement.gif){: .align-center}
+![image-center](https://ik.imagekit.io/willgauvin/RiskItForBiscuit/BuildMode/validAndInvalidPlacement.gif?updatedAt=1785509022223){: .align-center}
 
 ### Obstacle Inventory and Shop Integration
 Obstacles are stored in an inventory with counts for each type. Players can acquire obstacles via the Obstacle Shop, which uses ScriptableObjects to save which obstacles are available and their prices.  
@@ -108,15 +108,15 @@ Placing an obstacle automatically reduces its count in the inventory, and removi
 ## Visual Feedback
 The system uses a PreviewSystem to show a ghosted version of the obstacle before placement. It changes color to indicate whether the placement is valid (white) or invalid (red). A separate cell indicator shows which grid cells will be occupied.
 
-![image-center](/Gifs/RiskItForBiscuit/BuildMode/ghostObject.gif){: .align-center}
+![image-center](https://ik.imagekit.io/willgauvin/RiskItForBiscuit/BuildMode/ghostObject.gif?updatedAt=1785509034754){: .align-center}
 
 
 ## Placement and Removal States
 The system uses a state pattern (IBuildingState) to separate placement logic (PlacementState) from removal logic (RemovingState). This keeps the system modular and easy to extend with other build modes had I chosen to add them.  
 **Placement State**
-![image-center](/Gifs/RiskItForBiscuit/BuildMode/placingObstacles.gif){: .align-center}
+![image-center](https://ik.imagekit.io/willgauvin/RiskItForBiscuit/BuildMode/placingObstacles.gif?updatedAt=1785509031405){: .align-center}
 **Removing State**
-![image-center](/Gifs/RiskItForBiscuit/BuildMode/removingObstacles.gif){: .align-center}
+![image-center](https://ik.imagekit.io/willgauvin/RiskItForBiscuit/BuildMode/removingObstacles.gif?updatedAt=1785509025752){: .align-center}
 
 ## Object Management
 ObjectPlacer handles spawning and destroying the actual GameObjects in the world, while GridData keeps a logical representation of their positions for validation and persistence. This ensures that the visual scene always matches the internal game state.

@@ -12,10 +12,10 @@ title: "Librarian Simulator"
 
 
 Contributions:
-  - image_path: Gifs/LibrarianNPC1.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Librarian/LibrarianNPC1.gif?updatedAt=1785509019406
     alt: "NPC1"
     title: "NPC Checking Out"
-  - image_path: Gifs/LibrarianNPC2.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Librarian/LibrarianNPC2.gif?updatedAt=1785509041202
     alt: "NPC2"
     title: "NPC Returning"
 ---

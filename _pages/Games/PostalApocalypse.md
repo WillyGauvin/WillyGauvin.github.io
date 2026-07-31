@@ -23,10 +23,8 @@ initialWorld:
     image_path: /Gifs/Postal/InitialWorld2.gif
 
 flips:
-  - url: /Gifs/Postal/FrontFlip.gif
-    image_path: /Gifs/Postal/FrontFlip.gif
-  - url: /Gifs/Postal/BackFlip.gif
-    image_path: /Gifs/Postal/BackFlip.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Postal/FrontFlip.gif?updatedAt=1785509038863
+  - image_path: https://ik.imagekit.io/willgauvin/Postal/BackFlip.gif?updatedAt=1785509039069
 
 shootingBullets:
   - url: /Gifs/Postal/Shoot1.gif
@@ -41,8 +39,7 @@ shootingPackages:
     image_path: /Gifs/Postal/Package2.gif
 
 moreSpeed:
-  - url: /Gifs/Postal/IncreasedSpeed.gif
-    image_path: /Gifs/Postal/IncreasedSpeed.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Postal/IncreasedSpeed.gif?updatedAt=1785509041262
   - url: /Gifs/Postal/Boost.gif
     image_path: /Gifs/Postal/Boost.gif
 

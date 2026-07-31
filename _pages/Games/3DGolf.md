@@ -9,15 +9,15 @@ sidebar:
   nav: "willyiam"
 
 Contributions:
-  - image_path: Gifs/GolfLightingClose.gif
+  - image_path: Gifs/Golf/GolfLightingClose.gif
     alt: "Close up lighting"
     title: "Reflective Surfaces"
     excerpt: ""
-  - image_path: Gifs/GolfLightingFar.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Golf/GolfLightingFar.gif?updatedAt=1785509028225
     alt: "Far lighting"
     title: "A better view of the level"
     excerpt: ""
-  - image_path: Gifs/GolfLightingMoving.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Golf/GolfLightingMoving.gif?updatedAt=1785509030926
     alt: "Moving example"
     title: "Dynamic Lighting"
     excerpt: ""

@@ -11,57 +11,47 @@ toc: true
 toc_sticky: true
 
 Initial:
-  - url: Gifs/DrippinJack/1f.gif
-    image_path: Gifs/DrippinJack/1f.gif
+  - image_path: https://ik.imagekit.io/willgauvin/DrippinJack/1f.gif?updatedAt=1785508899408
     alt: "Initial Front fall"
     title: "Initial Front fall"
 
-  - url: Gifs/DrippinJack/1b.gif
-    image_path: Gifs/DrippinJack/1b.gif
+  - image_path: https://ik.imagekit.io/willgauvin/DrippinJack/1b.gif?updatedAt=1785508899530
     alt: "Initial Back fall"
     title: "Initial Back fall"
 
 Orientation:
-  - url: Gifs/DrippinJack/2f.gif
-    image_path: Gifs/DrippinJack/2f.gif
+  - image_path: https://ik.imagekit.io/willgauvin/DrippinJack/2f.gif?updatedAt=1785508899890
     alt: "Oriented Front fall"
     title: "Oriented Front fall"
 
-  - url: Gifs/DrippinJack/2b.gif
-    image_path: Gifs/DrippinJack/2b.gif
+  - image_path: https://ik.imagekit.io/willgauvin/DrippinJack/2b.gif?updatedAt=1785508899754
     alt: "Oriented Back fall"
     title: "Oriented Back fall"
 
 Interpolation:
-  - url: Gifs/DrippinJack/3f.gif
-    image_path: Gifs/DrippinJack/3f.gif
+  - image_path: https://ik.imagekit.io/willgauvin/DrippinJack/3f.gif?updatedAt=1785508900039
     alt: "Interpolated Front fall"
     title: "Interpolated Front fall"
 
-  - url: Gifs/DrippinJack/3b.gif
-    image_path: Gifs/DrippinJack/3b.gif
+  - image_path: https://ik.imagekit.io/willgauvin/DrippinJack/3b.gif?updatedAt=1785508899849
     alt: "Interpolated Back fall"
     title: "Interpolated Back fall"
 
 BeforeAfterFront:
-  - url: Gifs/DrippinJack/BeforeForwards.gif
-    image_path: Gifs/DrippinJack/BeforeForwards.gif
+  - image_path: https://ik.imagekit.io/willgauvin/DrippinJack/BeforeForwards.gif?updatedAt=1785508901882
     alt: "Third Person Before forward fall"
     title: "Third Person Before forward fall"
 
-  - url: Gifs/DrippinJack/AfterForwards.gif
-    image_path: Gifs/DrippinJack/AfterForwards.gif
+  - image_path: https://ik.imagekit.io/willgauvin/DrippinJack/AfterForwards.gif?updatedAt=1785508901860
     alt: "Third Person After forwards fall"
     title: "Third Person After forwards fall"
 
 BeforeAfterBack:
-  - url: Gifs/DrippinJack/BeforeBackwards.gif
-    image_path: Gifs/DrippinJack/BeforeBackwards.gif
+  - image_path: https://ik.imagekit.io/willgauvin/DrippinJack/BeforeBackwards.gif?updatedAt=1785508901693
     alt: "Third Person Before backwards fall"
     title: "Third Person Before backwards fall"
 
-  - url: Gifs/DrippinJack/AfterBackwards.gif
-    image_path: Gifs/DrippinJack/AfterBackwards.gif
+  - image_path: https://ik.imagekit.io/willgauvin/DrippinJack/AfterBackwards.gif?updatedAt=1785508901779
     alt: "Third Person After backwards fall"
     title: "Third Person After backwards fall"
 ---

@@ -12,11 +12,11 @@ title: "Super Mario Remake"
 
 
 Contributions:
-  - image_path: Gifs/MarioGoomba.gif
+  - image_path: Gifs/Mario/MarioGoomba.gif
     alt: "Goomba"
     title: "Goomba's Shooting Projectiles"
     excerpt: "I reimagined the classic Super Mario enemy, Goomba's. These Goombas have the ability to shoot projectiles at the player."
-  - image_path: Gifs/MarioBlocks.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Mario/MarioBlocks.gif?updatedAt=1785509021777
     alt: "On/Off Blocks"
     title: "Togglable Blocks"
     excerpt: "I recreated the togglable blocks to add exciting puzzles to the level."

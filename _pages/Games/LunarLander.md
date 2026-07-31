@@ -12,15 +12,15 @@ title: "Lunar Lander"
 
 
 Contributions:
-  - image_path: Gifs/LunarPhysics.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Lunar/LunarPhysics.gif?updatedAt=1785509018493
     alt: "Physics"
     title: "Physics"
     excerpt: "I implemented the Box2D physics library (an open source physics engine)."
-  - image_path: Gifs/LunarCamera.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Lunar/LunarCamera.gif?updatedAt=1785509017679
     alt: "Smooth Camera"
     title: "Smooth Camera"
     excerpt: "I created a smooth camera to follow the player and slowly zoom in as we approach landing."
-  - image_path: Gifs/LunarTerrain.gif
+  - image_path: https://ik.imagekit.io/willgauvin/Lunar/LunarTerrain.gif?updatedAt=1785509021565
     alt: "Terrain Generator"
     title: "Terrain Generator"
     excerpt: "I built a custom terrain generator to fill the ground with debris and unlandable area's."
